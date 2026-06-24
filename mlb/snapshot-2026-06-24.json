@@ -45,7 +45,10 @@
       "thin_sp": false,
       "game_time": "2026-06-24T22:40Z",
       "the_read": "V10 finds a small edge over the market line. Griffin Jax at full strength (49 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -156,
+      "closing_ml_away": 129,
+      "closing_ml_captured_at": "2026-06-24 18:30:01 UTC"
     },
     {
       "away_team": "Houston Astros",
@@ -86,7 +89,10 @@
       "thin_sp": false,
       "game_time": "2026-06-24T23:07Z",
       "the_read": "V10 finds a small edge over the market line. Trey Yesavage at full strength (55 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -145,
+      "closing_ml_away": 120,
+      "closing_ml_captured_at": "2026-06-24 18:30:01 UTC"
     },
     {
       "away_team": "Arizona Diamondbacks",
@@ -127,7 +133,10 @@
       "thin_sp": true,
       "game_time": "2026-06-24T23:45Z",
       "the_read": "V10 finds a solid edge over the market line. Matthew Liberatore at full strength (72 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -118,
+      "closing_ml_away": -102,
+      "closing_ml_captured_at": "2026-06-24 18:30:01 UTC"
     },
     {
       "away_team": "Chicago Cubs",
@@ -144,11 +153,11 @@
       "home_sp_weight": 100,
       "venue": "Citi Field",
       "park_factor": 0.97,
-      "away_ml": null,
-      "home_ml": null,
-      "ml_open_home": null,
-      "line_move": null,
-      "sharp_signal": "no data",
+      "away_ml": 100,
+      "home_ml": -121,
+      "ml_open_home": -121,
+      "line_move": 0,
+      "sharp_signal": "neutral",
       "h_cum_rd": -0.4,
       "a_cum_rd": 0.27,
       "is_playoff": 0,
@@ -158,17 +167,33 @@
       "series_finale": 0,
       "game_context": "",
       "model_prob_home": 53.8,
-      "vegas_prob_home": null,
-      "final_prob_home": 53.8,
+      "vegas_prob_home": 52.3,
+      "final_prob_home": 53.3,
       "pick": "New York Mets",
-      "confidence": 53.8,
-      "edge": null,
-      "over_under": null,
+      "confidence": 53.3,
+      "edge": 1.5,
+      "over_under": 8.5,
       "tbd_flag": null,
       "thin_sp": false,
       "game_time": "2026-06-24T17:10Z",
-      "the_read": "V10 finds an edge over the market line. Sean Manaea at full strength (54 IP).",
-      "display_tier": "PASS"
+      "the_read": "V10 finds a small edge over the market line. Sean Manaea at full strength (54 IP).",
+      "display_tier": "PASS",
+      "is_locked": true,
+      "locked_at": "2026-06-24 18:14:01 UTC",
+      "locked_pick": "New York Mets",
+      "locked_pick_ml": -121,
+      "locked_confidence": 53.3,
+      "locked_edge": 1.5,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -121,
+      "locked_away_ml": 100,
+      "locked_home_pitcher": "Sean Manaea",
+      "locked_away_pitcher": "Shota Imanaga",
+      "locked_sharp_signal": "neutral",
+      "locked_line_move": 0,
+      "closing_ml_home": -121,
+      "closing_ml_away": 100,
+      "closing_ml_captured_at": "2026-06-24 18:30:01 UTC"
     },
     {
       "away_team": "Chicago Cubs",
@@ -209,7 +234,10 @@
       "thin_sp": false,
       "game_time": "2026-06-24T23:10Z",
       "the_read": "V10 finds a small edge over the market line. Sean Manaea at full strength (54 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -121,
+      "closing_ml_away": 100,
+      "closing_ml_captured_at": "2026-06-24 18:30:01 UTC"
     },
     {
       "away_team": "Baltimore Orioles",
@@ -250,7 +278,10 @@
       "thin_sp": false,
       "game_time": "2026-06-24T20:07Z",
       "the_read": "V10 finds a small edge over the market line. Jos\u00e9 Soriano at full strength (92 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -124,
+      "closing_ml_away": 103,
+      "closing_ml_captured_at": "2026-06-24 18:30:01 UTC"
     },
     {
       "away_team": "Athletics",
@@ -291,7 +322,10 @@
       "thin_sp": false,
       "game_time": "2026-06-25T01:45Z",
       "the_read": "V10 finds a small edge over the market line. Tyler Mahle at full strength (56 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -103,
+      "closing_ml_away": -117,
+      "closing_ml_captured_at": "2026-06-24 18:30:01 UTC"
     },
     {
       "away_team": "Seattle Mariners",
@@ -332,7 +366,10 @@
       "thin_sp": false,
       "game_time": "2026-06-24T22:40Z",
       "the_read": "V10 finds a small edge over the market line. Bryan Woo at full strength (89 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -118,
+      "closing_ml_away": -102,
+      "closing_ml_captured_at": "2026-06-24 18:30:01 UTC"
     },
     {
       "away_team": "Atlanta Braves",
@@ -373,7 +410,10 @@
       "thin_sp": true,
       "game_time": "2026-06-25T00:40Z",
       "the_read": "V10 finds a small edge over the market line. Mart\u00edn P\u00e9rez at full strength (68 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 100,
+      "closing_ml_away": -120,
+      "closing_ml_captured_at": "2026-06-24 18:30:01 UTC"
     },
     {
       "away_team": "New York Yankees",
@@ -414,7 +454,10 @@
       "thin_sp": false,
       "game_time": "2026-06-24T22:40Z",
       "the_read": "V10 finds a solid edge over the market line. Ryan Weathers at full strength (80 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -132,
+      "closing_ml_away": 109,
+      "closing_ml_captured_at": "2026-06-24 18:30:01 UTC"
     },
     {
       "away_team": "Cleveland Guardians",
@@ -455,7 +498,20 @@
       "thin_sp": false,
       "game_time": "2026-06-24T18:10Z",
       "the_read": "V10 finds an edge over the market line. Tanner Bibee at full strength (89 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "is_locked": true,
+      "locked_at": "2026-06-24 18:14:01 UTC",
+      "locked_pick": "Cleveland Guardians",
+      "locked_pick_ml": null,
+      "locked_confidence": 53.9,
+      "locked_edge": null,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": null,
+      "locked_away_ml": null,
+      "locked_home_pitcher": "Erick Fedde",
+      "locked_away_pitcher": "Tanner Bibee",
+      "locked_sharp_signal": "no data",
+      "locked_line_move": null
     },
     {
       "away_team": "Philadelphia Phillies",
@@ -496,7 +552,10 @@
       "thin_sp": false,
       "game_time": "2026-06-24T22:45Z",
       "the_read": "V10 finds a small edge over the market line. Aaron Nola at full strength (75 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 105,
+      "closing_ml_away": -126,
+      "closing_ml_captured_at": "2026-06-24 18:30:01 UTC"
     },
     {
       "away_team": "Boston Red Sox",
@@ -537,7 +596,10 @@
       "thin_sp": false,
       "game_time": "2026-06-24T19:10Z",
       "the_read": "V10 finds a small edge over the market line. Ranger Suarez at full strength (76 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 144,
+      "closing_ml_away": -175,
+      "closing_ml_captured_at": "2026-06-24 18:30:01 UTC"
     },
     {
       "away_team": "Los Angeles Dodgers",
@@ -578,7 +640,10 @@
       "thin_sp": false,
       "game_time": "2026-06-24T23:40Z",
       "the_read": "V10 finds a small edge over the market line. Shohei Ohtani at full strength (73 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 148,
+      "closing_ml_away": -180,
+      "closing_ml_captured_at": "2026-06-24 18:30:01 UTC"
     },
     {
       "away_team": "Milwaukee Brewers",
@@ -619,7 +684,10 @@
       "thin_sp": false,
       "game_time": "2026-06-24T23:10Z",
       "the_read": "V10 finds a strong edge over the market line. Shane Drohan at full strength (47 IP).",
-      "display_tier": "PLAY"
+      "display_tier": "PLAY",
+      "closing_ml_home": 116,
+      "closing_ml_away": -140,
+      "closing_ml_captured_at": "2026-06-24 18:30:01 UTC"
     }
   ]
 }
