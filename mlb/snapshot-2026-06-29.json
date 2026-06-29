@@ -46,9 +46,9 @@
       "game_time": "2026-06-29T23:40Z",
       "the_read": "V10 finds a strong edge over the market line. Robert Gasser at full strength (30 IP).",
       "display_tier": "PLAY",
-      "closing_ml_home": -145,
-      "closing_ml_away": 120,
-      "closing_ml_captured_at": "2026-06-29 16:30:02 UTC"
+      "closing_ml_home": -137,
+      "closing_ml_away": 114,
+      "closing_ml_captured_at": "2026-06-29 18:30:02 UTC"
     },
     {
       "away_team": "Los Angeles Angels",
@@ -92,7 +92,7 @@
       "display_tier": "PASS",
       "closing_ml_home": -208,
       "closing_ml_away": 170,
-      "closing_ml_captured_at": "2026-06-29 16:30:02 UTC"
+      "closing_ml_captured_at": "2026-06-29 18:30:02 UTC"
     },
     {
       "away_team": "Detroit Tigers",
@@ -134,9 +134,9 @@
       "game_time": "2026-06-29T23:05Z",
       "the_read": "V10 finds a small edge over the market line. Ryan Weathers at full strength (86 IP). Sharps confirm the lean.",
       "display_tier": "PASS",
-      "closing_ml_home": -136,
-      "closing_ml_away": 113,
-      "closing_ml_captured_at": "2026-06-29 16:30:02 UTC"
+      "closing_ml_home": -132,
+      "closing_ml_away": 109,
+      "closing_ml_captured_at": "2026-06-29 18:30:02 UTC"
     },
     {
       "away_team": "Washington Nationals",
@@ -180,7 +180,7 @@
       "display_tier": "PASS",
       "closing_ml_home": -175,
       "closing_ml_away": 144,
-      "closing_ml_captured_at": "2026-06-29 16:30:02 UTC"
+      "closing_ml_captured_at": "2026-06-29 18:30:02 UTC"
     },
     {
       "away_team": "Pittsburgh Pirates",
@@ -224,7 +224,7 @@
       "display_tier": "LEAN",
       "closing_ml_home": -112,
       "closing_ml_away": -108,
-      "closing_ml_captured_at": "2026-06-29 16:30:02 UTC"
+      "closing_ml_captured_at": "2026-06-29 18:30:02 UTC"
     },
     {
       "away_team": "Texas Rangers",
@@ -268,7 +268,7 @@
       "display_tier": "PASS",
       "closing_ml_home": -149,
       "closing_ml_away": 124,
-      "closing_ml_captured_at": "2026-06-29 16:30:02 UTC"
+      "closing_ml_captured_at": "2026-06-29 18:30:02 UTC"
     },
     {
       "away_team": "San Diego Padres",
@@ -312,7 +312,7 @@
       "display_tier": "PASS",
       "closing_ml_home": -157,
       "closing_ml_away": 130,
-      "closing_ml_captured_at": "2026-06-29 16:30:02 UTC"
+      "closing_ml_captured_at": "2026-06-29 18:30:02 UTC"
     },
     {
       "away_team": "Minnesota Twins",
@@ -356,7 +356,7 @@
       "display_tier": "PASS",
       "closing_ml_home": -142,
       "closing_ml_away": 118,
-      "closing_ml_captured_at": "2026-06-29 16:30:02 UTC"
+      "closing_ml_captured_at": "2026-06-29 18:30:02 UTC"
     },
     {
       "away_team": "Chicago White Sox",
@@ -400,7 +400,7 @@
       "display_tier": "PASS",
       "closing_ml_home": -137,
       "closing_ml_away": 114,
-      "closing_ml_captured_at": "2026-06-29 16:30:02 UTC"
+      "closing_ml_captured_at": "2026-06-29 18:30:02 UTC"
     },
     {
       "away_team": "San Francisco Giants",
@@ -444,7 +444,7 @@
       "display_tier": "PASS",
       "closing_ml_home": -144,
       "closing_ml_away": 119,
-      "closing_ml_captured_at": "2026-06-29 16:30:02 UTC"
+      "closing_ml_captured_at": "2026-06-29 18:30:02 UTC"
     },
     {
       "away_team": "New York Mets",
@@ -488,7 +488,7 @@
       "display_tier": "PASS",
       "closing_ml_home": -126,
       "closing_ml_away": 105,
-      "closing_ml_captured_at": "2026-06-29 16:30:02 UTC"
+      "closing_ml_captured_at": "2026-06-29 18:30:02 UTC"
     },
     {
       "away_team": "Miami Marlins",
@@ -532,7 +532,7 @@
       "display_tier": "PASS",
       "closing_ml_home": 119,
       "closing_ml_away": -144,
-      "closing_ml_captured_at": "2026-06-29 16:30:02 UTC"
+      "closing_ml_captured_at": "2026-06-29 18:30:02 UTC"
     },
     {
       "away_team": "Los Angeles Dodgers",
@@ -576,7 +576,7 @@
       "display_tier": "LEAN",
       "closing_ml_home": -105,
       "closing_ml_away": -114,
-      "closing_ml_captured_at": "2026-06-29 16:30:02 UTC"
+      "closing_ml_captured_at": "2026-06-29 18:30:02 UTC"
     }
   ]
 }
