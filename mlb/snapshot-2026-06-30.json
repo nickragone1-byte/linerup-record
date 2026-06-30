@@ -45,7 +45,10 @@
       "thin_sp": false,
       "game_time": "2026-06-30T23:40Z",
       "the_read": "V10 finds a strong edge over the market line. Brandon Sproat at full strength (69 IP).",
-      "display_tier": "PLAY"
+      "display_tier": "PLAY",
+      "closing_ml_home": -175,
+      "closing_ml_away": 144,
+      "closing_ml_captured_at": "2026-06-30 18:15:02 UTC"
     },
     {
       "away_team": "Los Angeles Angels",
@@ -86,7 +89,10 @@
       "thin_sp": false,
       "game_time": "2026-07-01T01:40Z",
       "the_read": "V10 finds a small edge over the market line. Bryan Woo at full strength (93 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -193,
+      "closing_ml_away": 158,
+      "closing_ml_captured_at": "2026-06-30 18:15:02 UTC"
     },
     {
       "away_team": "Pittsburgh Pirates",
@@ -127,7 +133,10 @@
       "thin_sp": false,
       "game_time": "2026-06-30T22:40Z",
       "the_read": "V10 finds a strong edge over the market line. Cristopher S\u00e1nchez at full strength (110 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -227,
+      "closing_ml_away": 185,
+      "closing_ml_captured_at": "2026-06-30 18:15:02 UTC"
     },
     {
       "away_team": "Washington Nationals",
@@ -168,7 +177,10 @@
       "thin_sp": false,
       "game_time": "2026-06-30T23:10Z",
       "the_read": "V10 finds a small edge over the market line. Connelly Early at full strength (87 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -132,
+      "closing_ml_away": 109,
+      "closing_ml_captured_at": "2026-06-30 18:15:02 UTC"
     },
     {
       "away_team": "St. Louis Cardinals",
@@ -209,7 +221,10 @@
       "thin_sp": false,
       "game_time": "2026-06-30T23:15Z",
       "the_read": "V10 finds a small edge over the market line. Mart\u00edn P\u00e9rez at full strength (72 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -149,
+      "closing_ml_away": 123,
+      "closing_ml_captured_at": "2026-06-30 18:15:02 UTC"
     },
     {
       "away_team": "San Diego Padres",
@@ -250,7 +265,10 @@
       "thin_sp": true,
       "game_time": "2026-07-01T00:05Z",
       "the_read": "V10 finds a solid edge over the market line. Matthew Boyd at full strength (28 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -156,
+      "closing_ml_away": 129,
+      "closing_ml_captured_at": "2026-06-30 18:15:02 UTC"
     },
     {
       "away_team": "Detroit Tigers",
@@ -291,7 +309,10 @@
       "thin_sp": false,
       "game_time": "2026-06-30T23:05Z",
       "the_read": "V10 finds a solid edge over the market line. Cam Schlittler at full strength (100 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -115,
+      "closing_ml_away": -104,
+      "closing_ml_captured_at": "2026-06-30 18:15:02 UTC"
     },
     {
       "away_team": "Chicago White Sox",
@@ -332,7 +353,10 @@
       "thin_sp": false,
       "game_time": "2026-06-30T22:35Z",
       "the_read": "V10 finds a solid edge over the market line. Trey Gibson at full strength (30 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -148,
+      "closing_ml_away": 122,
+      "closing_ml_captured_at": "2026-06-30 18:15:02 UTC"
     },
     {
       "away_team": "Texas Rangers",
@@ -373,7 +397,10 @@
       "thin_sp": false,
       "game_time": "2026-06-30T22:40Z",
       "the_read": "V10 finds a solid edge over the market line. Tanner Bibee at full strength (95 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 104,
+      "closing_ml_away": -125,
+      "closing_ml_captured_at": "2026-06-30 18:15:02 UTC"
     },
     {
       "away_team": "San Francisco Giants",
@@ -414,7 +441,10 @@
       "thin_sp": true,
       "game_time": "2026-07-01T01:40Z",
       "the_read": "V10 finds a small edge over the market line. Bullpen edge drives the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -112,
+      "closing_ml_away": -108,
+      "closing_ml_captured_at": "2026-06-30 18:15:02 UTC"
     },
     {
       "away_team": "Minnesota Twins",
@@ -455,7 +485,10 @@
       "thin_sp": false,
       "game_time": "2026-07-01T00:10Z",
       "the_read": "V10 finds a small edge over the market line. Mike Burrows at full strength (85 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -105,
+      "closing_ml_away": -115,
+      "closing_ml_captured_at": "2026-06-30 18:15:02 UTC"
     },
     {
       "away_team": "New York Mets",
@@ -496,7 +529,10 @@
       "thin_sp": false,
       "game_time": "2026-06-30T23:07Z",
       "the_read": "V10 finds a small edge over the market line. Nolan McLean at full strength (89 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -120,
+      "closing_ml_away": -101,
+      "closing_ml_captured_at": "2026-06-30 18:15:02 UTC"
     },
     {
       "away_team": "Miami Marlins",
@@ -537,7 +573,10 @@
       "thin_sp": false,
       "game_time": "2026-07-01T00:40Z",
       "the_read": "V10 finds a small edge over the market line. Eury P\u00e9rez at full strength (67 IP). Mild sharp action confirms.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 113,
+      "closing_ml_away": -136,
+      "closing_ml_captured_at": "2026-06-30 18:15:02 UTC"
     },
     {
       "away_team": "Tampa Bay Rays",
@@ -578,7 +617,10 @@
       "thin_sp": false,
       "game_time": "2026-06-30T23:40Z",
       "the_read": "V10 finds a small edge over the market line. Griffin Jax at full strength (54 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 101,
+      "closing_ml_away": -122,
+      "closing_ml_captured_at": "2026-06-30 18:15:02 UTC"
     },
     {
       "away_team": "Los Angeles Dodgers",
@@ -619,7 +661,10 @@
       "thin_sp": false,
       "game_time": "2026-07-01T01:40Z",
       "the_read": "V10 finds a small edge over the market line. Justin Wrobleski at full strength (86 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 141,
+      "closing_ml_away": -171,
+      "closing_ml_captured_at": "2026-06-30 18:15:02 UTC"
     }
   ]
 }
