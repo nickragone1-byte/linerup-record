@@ -45,7 +45,23 @@
       "thin_sp": false,
       "game_time": "2026-07-02T18:10Z",
       "the_read": "V10 finds a solid edge over the market line. Jacob Misiorowski at full strength (99 IP).",
-      "display_tier": "PLAY"
+      "display_tier": "PLAY",
+      "closing_ml_home": -219,
+      "closing_ml_away": 178,
+      "closing_ml_captured_at": "2026-07-02 18:00:02 UTC",
+      "is_locked": true,
+      "locked_at": "2026-07-02 18:06:01 UTC",
+      "locked_pick": "Milwaukee Brewers",
+      "locked_pick_ml": -204,
+      "locked_confidence": 69.1,
+      "locked_edge": 7.1,
+      "locked_display_tier": "PLAY",
+      "locked_home_ml": -204,
+      "locked_away_ml": 167,
+      "locked_home_pitcher": "Jacob Misiorowski",
+      "locked_away_pitcher": "Chase Burns",
+      "locked_sharp_signal": "neutral",
+      "locked_line_move": -5
     },
     {
       "away_team": "Los Angeles Angels",
@@ -86,7 +102,10 @@
       "thin_sp": false,
       "game_time": "2026-07-03T01:40Z",
       "the_read": "V10 finds a small edge over the market line. Bryce Miller at full strength (45 IP). Mild sharp action confirms.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -219,
+      "closing_ml_away": 178,
+      "closing_ml_captured_at": "2026-07-02 18:30:01 UTC"
     },
     {
       "away_team": "San Diego Padres",
@@ -127,7 +146,10 @@
       "thin_sp": false,
       "game_time": "2026-07-03T02:10Z",
       "the_read": "V10 finds a small edge over the market line. Roki Sasaki at full strength (72 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -198,
+      "closing_ml_away": 162,
+      "closing_ml_captured_at": "2026-07-02 18:30:01 UTC"
     },
     {
       "away_team": "St. Louis Cardinals",
@@ -168,7 +190,10 @@
       "thin_sp": true,
       "game_time": "2026-07-02T23:15Z",
       "the_read": "V10 finds a strong edge over the market line. Bullpen edge drives the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -115,
+      "closing_ml_away": -105,
+      "closing_ml_captured_at": "2026-07-02 18:30:01 UTC"
     },
     {
       "away_team": "Pittsburgh Pirates",
@@ -222,7 +247,10 @@
       "locked_home_pitcher": "Alan Rangel",
       "locked_away_pitcher": "Jared Jones",
       "locked_sharp_signal": "neutral",
-      "locked_line_move": 0
+      "locked_line_move": 0,
+      "closing_ml_home": -136,
+      "closing_ml_away": 113,
+      "closing_ml_captured_at": "2026-07-02 16:30:06 UTC"
     },
     {
       "away_team": "Chicago White Sox",
@@ -263,7 +291,10 @@
       "thin_sp": false,
       "game_time": "2026-07-02T22:40Z",
       "the_read": "V10 finds a solid edge over the market line. Slade Cecconi at full strength (90 IP).",
-      "display_tier": "LEAN"
+      "display_tier": "LEAN",
+      "closing_ml_home": -112,
+      "closing_ml_away": -107,
+      "closing_ml_captured_at": "2026-07-02 18:30:01 UTC"
     },
     {
       "away_team": "Detroit Tigers",
@@ -304,7 +335,10 @@
       "thin_sp": false,
       "game_time": "2026-07-03T00:05Z",
       "the_read": "V10 finds a small edge over the market line. Nathan Eovaldi at full strength (100 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -110,
+      "closing_ml_away": -109,
+      "closing_ml_captured_at": "2026-07-02 18:30:01 UTC"
     },
     {
       "away_team": "Tampa Bay Rays",
@@ -345,7 +379,10 @@
       "thin_sp": false,
       "game_time": "2026-07-02T23:40Z",
       "the_read": "V10 finds a small edge over the market line. Ian Seymour at full strength (50 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 104,
+      "closing_ml_away": -125,
+      "closing_ml_captured_at": "2026-07-02 18:30:01 UTC"
     },
     {
       "away_team": "Miami Marlins",
@@ -386,7 +423,10 @@
       "thin_sp": false,
       "game_time": "2026-07-02T19:10Z",
       "the_read": "V10 finds a small edge over the market line. Ryan Gusto at full strength (21 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 113,
+      "closing_ml_away": -136,
+      "closing_ml_captured_at": "2026-07-02 18:30:01 UTC"
     }
   ]
 }
