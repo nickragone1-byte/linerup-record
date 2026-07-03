@@ -45,7 +45,10 @@
       "thin_sp": false,
       "game_time": "2026-07-04T02:10Z",
       "the_read": "V10 finds a solid edge over the market line. Shohei Ohtani at full strength (79 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -251,
+      "closing_ml_away": 203,
+      "closing_ml_captured_at": "2026-07-03 18:15:01 UTC"
     },
     {
       "away_team": "Minnesota Twins",
@@ -86,7 +89,10 @@
       "thin_sp": false,
       "game_time": "2026-07-03T23:05Z",
       "the_read": "V10 finds a small edge over the market line. Gerrit Cole at full strength (37 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -193,
+      "closing_ml_away": 158,
+      "closing_ml_captured_at": "2026-07-03 18:15:01 UTC"
     },
     {
       "away_team": "Chicago White Sox",
@@ -127,7 +133,10 @@
       "thin_sp": false,
       "game_time": "2026-07-03T23:10Z",
       "the_read": "V10 finds a small edge over the market line. Gavin Williams at full strength (101 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -132,
+      "closing_ml_away": 109,
+      "closing_ml_captured_at": "2026-07-03 18:15:01 UTC"
     },
     {
       "away_team": "St. Louis Cardinals",
@@ -168,7 +177,10 @@
       "thin_sp": false,
       "game_time": "2026-07-03T20:05Z",
       "the_read": "V10 finds a small edge over the market line. David Peterson at full strength (73 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -131,
+      "closing_ml_away": 109,
+      "closing_ml_captured_at": "2026-07-03 18:15:01 UTC"
     },
     {
       "away_team": "Toronto Blue Jays",
@@ -209,7 +221,10 @@
       "thin_sp": false,
       "game_time": "2026-07-04T02:10Z",
       "the_read": "V10 finds a strong edge over the market line. Luis Castillo at full strength (76 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 109,
+      "closing_ml_away": -131,
+      "closing_ml_captured_at": "2026-07-03 18:15:01 UTC"
     },
     {
       "away_team": "Pittsburgh Pirates",
@@ -250,7 +265,10 @@
       "thin_sp": false,
       "game_time": "2026-07-03T22:45Z",
       "the_read": "V10 finds a strong edge over the market line. Foster Griffin at full strength (98 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -156,
+      "closing_ml_away": 129,
+      "closing_ml_captured_at": "2026-07-03 18:15:01 UTC"
     },
     {
       "away_team": "Miami Marlins",
@@ -291,7 +309,10 @@
       "thin_sp": false,
       "game_time": "2026-07-04T01:40Z",
       "the_read": "V10 finds a solid edge over the market line. Jack Perkins at full strength (51 IP). Mild sharp action confirms.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -143,
+      "closing_ml_away": 119,
+      "closing_ml_captured_at": "2026-07-03 18:15:01 UTC"
     },
     {
       "away_team": "New York Mets",
@@ -332,7 +353,10 @@
       "thin_sp": false,
       "game_time": "2026-07-03T23:15Z",
       "the_read": "V10 finds a solid edge over the market line. Grant Holmes at full strength (77 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -114,
+      "closing_ml_away": -105,
+      "closing_ml_captured_at": "2026-07-03 18:15:01 UTC"
     },
     {
       "away_team": "San Francisco Giants",
@@ -373,7 +397,10 @@
       "thin_sp": true,
       "game_time": "2026-07-04T00:10Z",
       "the_read": "V10 finds a solid edge over the market line. Bullpen edge drives the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 124,
+      "closing_ml_away": -149,
+      "closing_ml_captured_at": "2026-07-03 18:15:01 UTC"
     },
     {
       "away_team": "Boston Red Sox",
@@ -414,7 +441,10 @@
       "thin_sp": false,
       "game_time": "2026-07-04T01:38Z",
       "the_read": "V10 finds a solid edge over the market line. Jake Bennett at full strength (33 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -112,
+      "closing_ml_away": -108,
+      "closing_ml_captured_at": "2026-07-03 18:15:01 UTC"
     },
     {
       "away_team": "Baltimore Orioles",
@@ -455,7 +485,10 @@
       "thin_sp": false,
       "game_time": "2026-07-03T23:10Z",
       "the_read": "V10 finds a small edge over the market line. Trevor Rogers at full strength (79 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 104,
+      "closing_ml_away": -125,
+      "closing_ml_captured_at": "2026-07-03 18:15:01 UTC"
     },
     {
       "away_team": "Tampa Bay Rays",
@@ -496,7 +529,10 @@
       "thin_sp": false,
       "game_time": "2026-07-04T00:15Z",
       "the_read": "V10 finds a small edge over the market line. Nick Martinez at full strength (94 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -108,
+      "closing_ml_away": -111,
+      "closing_ml_captured_at": "2026-07-03 18:15:01 UTC"
     },
     {
       "away_team": "Milwaukee Brewers",
@@ -537,7 +573,10 @@
       "thin_sp": true,
       "game_time": "2026-07-04T01:45Z",
       "the_read": "V10 finds a solid edge over the market line. Kyle Harrison at full strength (77 IP). Mild sharp action confirms.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 119,
+      "closing_ml_away": -144,
+      "closing_ml_captured_at": "2026-07-03 18:15:01 UTC"
     }
   ]
 }
