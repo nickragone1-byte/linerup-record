@@ -45,7 +45,10 @@
       "thin_sp": true,
       "game_time": "2026-07-05T23:20Z",
       "the_read": "V10 finds a small edge over the market line. Emmet Sheehan at full strength (72 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -219,
+      "closing_ml_away": 178,
+      "closing_ml_captured_at": "2026-07-05 18:15:01 UTC"
     },
     {
       "away_team": "Minnesota Twins",
@@ -86,7 +89,23 @@
       "thin_sp": false,
       "game_time": "2026-07-05T17:35Z",
       "the_read": "V10 finds a strong edge over the market line. Ryan Weathers at full strength (88 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -131,
+      "closing_ml_away": 113,
+      "closing_ml_captured_at": "2026-07-05 17:30:02 UTC",
+      "is_locked": true,
+      "locked_at": "2026-07-05 17:30:02 UTC",
+      "locked_pick": "New York Yankees",
+      "locked_pick_ml": -131,
+      "locked_confidence": 60.1,
+      "locked_edge": 8.4,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -131,
+      "locked_away_ml": 109,
+      "locked_home_pitcher": "Ryan Weathers",
+      "locked_away_pitcher": "Joe Ryan",
+      "locked_sharp_signal": "neutral",
+      "locked_line_move": 5
     },
     {
       "away_team": "St. Louis Cardinals",
@@ -103,7 +122,7 @@
       "home_sp_weight": 100,
       "venue": "Wrigley Field",
       "park_factor": 1.01,
-      "away_ml": 123,
+      "away_ml": 124,
       "home_ml": -149,
       "ml_open_home": -156,
       "line_move": 7,
@@ -117,17 +136,33 @@
       "series_finale": 1,
       "game_context": "",
       "model_prob_home": 55.6,
-      "vegas_prob_home": 57.2,
-      "final_prob_home": 56,
+      "vegas_prob_home": 57.3,
+      "final_prob_home": 56.1,
       "pick": "Chicago Cubs",
-      "confidence": 56,
-      "edge": -1.6,
+      "confidence": 56.1,
+      "edge": -1.7,
       "over_under": 8,
       "tbd_flag": null,
       "thin_sp": false,
       "game_time": "2026-07-05T18:30Z",
       "the_read": "V10 finds a small edge over the market line. Javier Assad at full strength (51 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -144,
+      "closing_ml_away": 119,
+      "closing_ml_captured_at": "2026-07-05 18:15:01 UTC",
+      "is_locked": true,
+      "locked_at": "2026-07-05 18:26:01 UTC",
+      "locked_pick": "Chicago Cubs",
+      "locked_pick_ml": -149,
+      "locked_confidence": 56.1,
+      "locked_edge": -1.7,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -149,
+      "locked_away_ml": 124,
+      "locked_home_pitcher": "Javier Assad",
+      "locked_away_pitcher": "Matthew Liberatore",
+      "locked_sharp_signal": "neutral",
+      "locked_line_move": 7
     },
     {
       "away_team": "Toronto Blue Jays",
@@ -168,7 +203,10 @@
       "thin_sp": false,
       "game_time": "2026-07-05T21:00Z",
       "the_read": "V10 finds a small edge over the market line. Emerson Hancock at full strength (90 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -121,
+      "closing_ml_away": 100,
+      "closing_ml_captured_at": "2026-07-05 18:15:01 UTC"
     },
     {
       "away_team": "Chicago White Sox",
@@ -209,7 +247,23 @@
       "thin_sp": false,
       "game_time": "2026-07-05T18:00Z",
       "the_read": "V10 finds a small edge over the market line. Tanner Bibee at full strength (102 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -137,
+      "closing_ml_away": 114,
+      "closing_ml_captured_at": "2026-07-05 17:15:02 UTC",
+      "is_locked": true,
+      "locked_at": "2026-07-05 17:56:01 UTC",
+      "locked_pick": "Cleveland Guardians",
+      "locked_pick_ml": -137,
+      "locked_confidence": 54.7,
+      "locked_edge": 1.9,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -137,
+      "locked_away_ml": 114,
+      "locked_home_pitcher": "Tanner Bibee",
+      "locked_away_pitcher": "Chris Murphy",
+      "locked_sharp_signal": "sharp on AWAY",
+      "locked_line_move": 26
     },
     {
       "away_team": "Pittsburgh Pirates",
@@ -250,7 +304,23 @@
       "thin_sp": false,
       "game_time": "2026-07-05T17:00Z",
       "the_read": "V10 finds a solid edge over the market line. Cade Cavalli at full strength (90 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -138,
+      "closing_ml_away": 115,
+      "closing_ml_captured_at": "2026-07-05 17:00:01 UTC",
+      "is_locked": true,
+      "locked_at": "2026-07-05 16:56:01 UTC",
+      "locked_pick": "Washington Nationals",
+      "locked_pick_ml": -142,
+      "locked_confidence": 52.2,
+      "locked_edge": -7.8,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -142,
+      "locked_away_ml": 118,
+      "locked_home_pitcher": "Cade Cavalli",
+      "locked_away_pitcher": "Bubba Chandler",
+      "locked_sharp_signal": "sharp on HOME",
+      "locked_line_move": -16
     },
     {
       "away_team": "Detroit Tigers",
@@ -291,7 +361,10 @@
       "thin_sp": false,
       "game_time": "2026-07-05T19:30Z",
       "the_read": "V10 finds a solid edge over the market line. Kumar Rocker at full strength (80 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 104,
+      "closing_ml_away": -125,
+      "closing_ml_captured_at": "2026-07-05 18:15:01 UTC"
     },
     {
       "away_team": "New York Mets",
@@ -332,7 +405,26 @@
       "thin_sp": false,
       "game_time": "2026-07-05T16:30Z",
       "the_read": "V10 finds a solid edge over the market line. Mart\u00edn P\u00e9rez at full strength (77 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "is_locked": true,
+      "locked_at": "2026-07-05 16:32:01 UTC",
+      "locked_pick": "Atlanta Braves",
+      "locked_pick_ml": -105,
+      "locked_confidence": 51.4,
+      "locked_edge": 6.3,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -105,
+      "locked_away_ml": -114,
+      "locked_home_pitcher": "Mart\u00edn P\u00e9rez",
+      "locked_away_pitcher": "Nolan McLean",
+      "locked_sharp_signal": "sharp on AWAY",
+      "locked_line_move": 15,
+      "live_pick": "Atlanta Braves",
+      "live_confidence": 55.3,
+      "live_edge": null,
+      "live_model_diverged": true,
+      "live_pick_changed": false,
+      "live_updated_at": "2026-07-05 17:07:02 UTC"
     },
     {
       "away_team": "San Francisco Giants",
@@ -373,7 +465,10 @@
       "thin_sp": false,
       "game_time": "2026-07-05T20:00Z",
       "the_read": "V10 finds a small edge over the market line. Tyler Mahle at full strength (66 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 107,
+      "closing_ml_away": -129,
+      "closing_ml_captured_at": "2026-07-05 18:15:01 UTC"
     },
     {
       "away_team": "Miami Marlins",
@@ -414,7 +509,10 @@
       "thin_sp": false,
       "game_time": "2026-07-05T20:30Z",
       "the_read": "V10 finds a solid edge over the market line. Eury P\u00e9rez at full strength (72 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -118,
+      "closing_ml_away": -102,
+      "closing_ml_captured_at": "2026-07-05 18:15:01 UTC"
     },
     {
       "away_team": "Tampa Bay Rays",
@@ -455,7 +553,10 @@
       "thin_sp": true,
       "game_time": "2026-07-05T19:30Z",
       "the_read": "V10 finds a solid edge over the market line. Bullpen edge drives the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -118,
+      "closing_ml_away": -102,
+      "closing_ml_captured_at": "2026-07-05 18:15:01 UTC"
     },
     {
       "away_team": "Baltimore Orioles",
@@ -496,7 +597,23 @@
       "thin_sp": false,
       "game_time": "2026-07-05T17:05Z",
       "the_read": "V10 finds a small edge over the market line. Kyle Bradish at full strength (93 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -102,
+      "closing_ml_away": -118,
+      "closing_ml_captured_at": "2026-07-05 17:00:01 UTC",
+      "is_locked": true,
+      "locked_at": "2026-07-05 17:00:01 UTC",
+      "locked_pick": "Baltimore Orioles",
+      "locked_pick_ml": -117,
+      "locked_confidence": 53.6,
+      "locked_edge": 1.9,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -103,
+      "locked_away_ml": -117,
+      "locked_home_pitcher": "Nick Lodolo",
+      "locked_away_pitcher": "Kyle Bradish",
+      "locked_sharp_signal": "mild on AWAY",
+      "locked_line_move": 9
     },
     {
       "away_team": "Boston Red Sox",
@@ -537,7 +654,10 @@
       "thin_sp": false,
       "game_time": "2026-07-06T01:30Z",
       "the_read": "V10 finds a solid edge over the market line. Ranger Suarez at full strength (88 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 135,
+      "closing_ml_away": -163,
+      "closing_ml_captured_at": "2026-07-05 18:15:01 UTC"
     },
     {
       "away_team": "Milwaukee Brewers",
@@ -578,7 +698,10 @@
       "thin_sp": false,
       "game_time": "2026-07-05T20:00Z",
       "the_read": "V10 finds a strong edge over the market line. Brandon Sproat at full strength (75 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 101,
+      "closing_ml_away": -122,
+      "closing_ml_captured_at": "2026-07-05 18:15:01 UTC"
     },
     {
       "away_team": "Philadelphia Phillies",
@@ -619,7 +742,10 @@
       "thin_sp": false,
       "game_time": "2026-07-05T19:00Z",
       "the_read": "V10 finds a solid edge over the market line. Aaron Nola at full strength (85 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 113,
+      "closing_ml_away": -136,
+      "closing_ml_captured_at": "2026-07-05 18:15:01 UTC"
     }
   ]
 }
