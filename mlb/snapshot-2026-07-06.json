@@ -45,7 +45,10 @@
       "thin_sp": false,
       "game_time": "2026-07-07T02:10Z",
       "the_read": "V10 leans this way with a calibrated read (69%). Eric Lauer at full strength (70 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -238,
+      "closing_ml_away": 193,
+      "closing_ml_captured_at": "2026-07-06 18:30:01 UTC"
     },
     {
       "away_team": "Arizona Diamondbacks",
@@ -86,7 +89,10 @@
       "thin_sp": false,
       "game_time": "2026-07-07T01:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Walker Buehler at full strength (82 IP). Mild sharp action confirms.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -124,
+      "closing_ml_away": 103,
+      "closing_ml_captured_at": "2026-07-06 18:30:01 UTC"
     },
     {
       "away_team": "New York Mets",
@@ -127,7 +133,10 @@
       "thin_sp": false,
       "game_time": "2026-07-06T23:15Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Reynaldo L\u00f3pez at full strength (51 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -131,
+      "closing_ml_away": 109,
+      "closing_ml_captured_at": "2026-07-06 18:30:01 UTC"
     },
     {
       "away_team": "Houston Astros",
@@ -168,7 +177,10 @@
       "thin_sp": false,
       "game_time": "2026-07-06T22:45Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Miles Mikolas at full strength (84 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -120,
+      "closing_ml_away": -101,
+      "closing_ml_captured_at": "2026-07-06 18:30:01 UTC"
     },
     {
       "away_team": "New York Yankees",
@@ -209,7 +221,10 @@
       "thin_sp": false,
       "game_time": "2026-07-06T22:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Cam Schlittler at full strength (104 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -112,
+      "closing_ml_away": -108,
+      "closing_ml_captured_at": "2026-07-06 18:30:01 UTC"
     },
     {
       "away_team": "Toronto Blue Jays",
@@ -250,7 +265,10 @@
       "thin_sp": false,
       "game_time": "2026-07-07T01:45Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Kevin Gausman at full strength (101 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -108,
+      "closing_ml_away": -112,
+      "closing_ml_captured_at": "2026-07-06 18:30:01 UTC"
     },
     {
       "away_team": "Milwaukee Brewers",
@@ -291,7 +309,10 @@
       "thin_sp": false,
       "game_time": "2026-07-06T23:45Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (59%) - that pattern historically favors the market, so it is a pass. Shane Drohan at full strength (57 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -110,
+      "closing_ml_away": -109,
+      "closing_ml_captured_at": "2026-07-06 18:30:01 UTC"
     },
     {
       "away_team": "Philadelphia Phillies",
@@ -332,7 +353,23 @@
       "thin_sp": false,
       "game_time": "2026-07-06T18:10Z",
       "the_read": "V10 leans this way with a calibrated read (63%). Cristopher S\u00e1nchez at full strength (117 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 182,
+      "closing_ml_away": -224,
+      "closing_ml_captured_at": "2026-07-06 18:00:02 UTC",
+      "is_locked": true,
+      "locked_at": "2026-07-06 18:06:01 UTC",
+      "locked_pick": "Philadelphia Phillies",
+      "locked_pick_ml": -205,
+      "locked_confidence": 65.1,
+      "locked_edge": -1.1,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": 168,
+      "locked_away_ml": -205,
+      "locked_home_pitcher": "Noah Cameron",
+      "locked_away_pitcher": "Cristopher S\u00e1nchez",
+      "locked_sharp_signal": "sharp on AWAY",
+      "locked_line_move": 27
     }
   ]
 }
