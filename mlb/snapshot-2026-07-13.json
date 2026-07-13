@@ -45,7 +45,20 @@
       "thin_sp": true,
       "game_time": "2026-07-12T20:10Z",
       "the_read": "V10 leans this way with a calibrated read (66%). Emmet Sheehan at full strength (77 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "is_locked": true,
+      "locked_at": "2026-07-13 16:32:01 UTC",
+      "locked_pick": "Los Angeles Dodgers",
+      "locked_pick_ml": -231,
+      "locked_confidence": 67.4,
+      "locked_edge": -1.1,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -231,
+      "locked_away_ml": 187,
+      "locked_home_pitcher": "Emmet Sheehan",
+      "locked_away_pitcher": "Mitch Bratt",
+      "locked_sharp_signal": "sharp on HOME",
+      "locked_line_move": -32
     },
     {
       "away_team": "Colorado Rockies",
@@ -86,7 +99,20 @@
       "thin_sp": false,
       "game_time": "2026-07-12T20:05Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Trevor McDonald at full strength (59 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "is_locked": true,
+      "locked_at": "2026-07-13 16:32:01 UTC",
+      "locked_pick": "San Francisco Giants",
+      "locked_pick_ml": -149,
+      "locked_confidence": 52.7,
+      "locked_edge": -3.7,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -149,
+      "locked_away_ml": 124,
+      "locked_home_pitcher": "Trevor McDonald",
+      "locked_away_pitcher": "Michael Lorenzen",
+      "locked_sharp_signal": "sharp on AWAY",
+      "locked_line_move": 19
     },
     {
       "away_team": "Toronto Blue Jays",
@@ -127,7 +153,20 @@
       "thin_sp": false,
       "game_time": "2026-07-12T20:10Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Kevin Gausman at full strength (106 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "is_locked": true,
+      "locked_at": "2026-07-13 16:32:01 UTC",
+      "locked_pick": "Toronto Blue Jays",
+      "locked_pick_ml": -131,
+      "locked_confidence": 52,
+      "locked_edge": -3.1,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": 109,
+      "locked_away_ml": -131,
+      "locked_home_pitcher": "Germ\u00e1n M\u00e1rquez",
+      "locked_away_pitcher": "Kevin Gausman",
+      "locked_sharp_signal": "neutral",
+      "locked_line_move": 5
     }
   ]
 }
