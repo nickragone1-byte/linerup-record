@@ -45,7 +45,10 @@
       "thin_sp": false,
       "game_time": "2026-07-16T23:00Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Aaron Nola at full strength (97 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -131,
+      "closing_ml_away": 109,
+      "closing_ml_captured_at": "2026-07-16 18:30:01 UTC"
     }
   ]
 }
