@@ -45,7 +45,10 @@
       "thin_sp": false,
       "game_time": "2026-07-18T02:10Z",
       "the_read": "V10 leans this way with a calibrated read (64%). Bryce Miller at full strength (57 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -194,
+      "closing_ml_away": 159,
+      "closing_ml_captured_at": "2026-07-17 18:30:02 UTC"
     },
     {
       "away_team": "Miami Marlins",
@@ -86,7 +89,10 @@
       "thin_sp": false,
       "game_time": "2026-07-17T23:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Logan Henderson at full strength (28 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -156,
+      "closing_ml_away": 129,
+      "closing_ml_captured_at": "2026-07-17 18:30:02 UTC"
     },
     {
       "away_team": "Texas Rangers",
@@ -127,7 +133,10 @@
       "thin_sp": false,
       "game_time": "2026-07-17T23:15Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (53%) - that pattern historically favors the market, so it is a pass. Chris Sale at full strength (98 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -205,
+      "closing_ml_away": 168,
+      "closing_ml_captured_at": "2026-07-17 18:30:02 UTC"
     },
     {
       "away_team": "Minnesota Twins",
@@ -168,7 +177,10 @@
       "thin_sp": false,
       "game_time": "2026-07-18T00:05Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Colin Rea at full strength (94 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -150,
+      "closing_ml_away": 124,
+      "closing_ml_captured_at": "2026-07-17 18:30:02 UTC"
     },
     {
       "away_team": "Chicago White Sox",
@@ -209,7 +221,10 @@
       "thin_sp": false,
       "game_time": "2026-07-17T23:15Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Spencer Miles at full strength (60 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -136,
+      "closing_ml_away": 113,
+      "closing_ml_captured_at": "2026-07-17 18:30:02 UTC"
     },
     {
       "away_team": "Tampa Bay Rays",
@@ -250,7 +265,10 @@
       "thin_sp": false,
       "game_time": "2026-07-17T23:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Jake Bennett at full strength (47 IP). Mild sharp action confirms.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -119,
+      "closing_ml_away": -102,
+      "closing_ml_captured_at": "2026-07-17 18:30:02 UTC"
     },
     {
       "away_team": "Tampa Bay Rays",
@@ -291,7 +309,10 @@
       "thin_sp": true,
       "game_time": "2026-07-17T23:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Bullpen edge drives the lean. Mild sharp action confirms.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -119,
+      "closing_ml_away": -102,
+      "closing_ml_captured_at": "2026-07-17 18:30:02 UTC"
     },
     {
       "away_team": "Pittsburgh Pirates",
@@ -332,7 +353,10 @@
       "thin_sp": false,
       "game_time": "2026-07-17T23:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Gavin Williams at full strength (113 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -131,
+      "closing_ml_away": 109,
+      "closing_ml_captured_at": "2026-07-17 18:30:02 UTC"
     },
     {
       "away_team": "Cincinnati Reds",
@@ -373,28 +397,31 @@
       "thin_sp": true,
       "game_time": "2026-07-18T00:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Gabriel Hughes on a limited sample (9 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -115,
+      "closing_ml_away": -105,
+      "closing_ml_captured_at": "2026-07-17 18:30:02 UTC"
     },
     {
       "away_team": "Tampa Bay Rays",
       "home_team": "Boston Red Sox",
       "away_record": "56-38",
       "home_record": "46-48",
-      "away_pitcher": "Griffin Jax",
-      "home_pitcher": "Jake Bennett",
-      "away_sp_ip": 70,
-      "home_sp_ip": 47.2,
+      "away_pitcher": "TBD",
+      "home_pitcher": "TBD",
+      "away_sp_ip": 0,
+      "home_sp_ip": 0,
       "away_sp_siera": 3.83,
       "home_sp_siera": 3.88,
-      "away_sp_weight": 100,
-      "home_sp_weight": 100,
+      "away_sp_weight": 0,
+      "home_sp_weight": 0,
       "venue": "Fenway Park",
       "park_factor": 1.03,
-      "away_ml": -107,
-      "home_ml": -112,
+      "away_ml": 100,
+      "home_ml": -121,
       "ml_open_home": -126,
-      "line_move": 14,
-      "sharp_signal": "mild on AWAY",
+      "line_move": 5,
+      "sharp_signal": "neutral",
       "h_cum_rd": 0.28,
       "a_cum_rd": 0.41,
       "is_playoff": 0,
@@ -404,17 +431,33 @@
       "series_finale": 0,
       "game_context": "",
       "model_prob_home": 53.6,
-      "vegas_prob_home": 50.5,
-      "final_prob_home": 50.7,
+      "vegas_prob_home": 52.3,
+      "final_prob_home": 53.2,
       "pick": "Boston Red Sox",
-      "confidence": 50.7,
-      "edge": 3.1,
+      "confidence": 53.2,
+      "edge": 1.4,
       "over_under": 8.5,
-      "tbd_flag": null,
-      "thin_sp": false,
+      "tbd_flag": "both TBD",
+      "thin_sp": true,
       "game_time": "2026-07-17T17:35Z",
-      "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Jake Bennett at full strength (47 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "the_read": "V10 and the market are closely aligned - no clear lean. Bullpen edge drives the lean.",
+      "display_tier": "PASS",
+      "closing_ml_home": -119,
+      "closing_ml_away": -102,
+      "closing_ml_captured_at": "2026-07-17 18:30:02 UTC",
+      "is_locked": true,
+      "locked_at": "2026-07-17 17:36:01 UTC",
+      "locked_pick": "Boston Red Sox",
+      "locked_pick_ml": -121,
+      "locked_confidence": 53.2,
+      "locked_edge": 1.4,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -121,
+      "locked_away_ml": 100,
+      "locked_home_pitcher": "TBD",
+      "locked_away_pitcher": "TBD",
+      "locked_sharp_signal": "neutral",
+      "locked_line_move": 5
     },
     {
       "away_team": "Tampa Bay Rays",
@@ -431,11 +474,11 @@
       "home_sp_weight": 0,
       "venue": "Fenway Park",
       "park_factor": 1.03,
-      "away_ml": -107,
-      "home_ml": -112,
+      "away_ml": 100,
+      "home_ml": -121,
       "ml_open_home": -126,
-      "line_move": 14,
-      "sharp_signal": "mild on AWAY",
+      "line_move": 5,
+      "sharp_signal": "neutral",
       "h_cum_rd": 0.28,
       "a_cum_rd": 0.41,
       "is_playoff": 0,
@@ -445,17 +488,33 @@
       "series_finale": 0,
       "game_context": "",
       "model_prob_home": 53.6,
-      "vegas_prob_home": 50.5,
-      "final_prob_home": 50.7,
+      "vegas_prob_home": 52.3,
+      "final_prob_home": 53.2,
       "pick": "Boston Red Sox",
-      "confidence": 50.7,
-      "edge": 3.1,
+      "confidence": 53.2,
+      "edge": 1.4,
       "over_under": 8.5,
       "tbd_flag": "both TBD",
       "thin_sp": true,
       "game_time": "2026-07-17T17:35Z",
-      "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Bullpen edge drives the lean. Mild sharp action against.",
-      "display_tier": "PASS"
+      "the_read": "V10 and the market are closely aligned - no clear lean. Bullpen edge drives the lean.",
+      "display_tier": "PASS",
+      "closing_ml_home": -119,
+      "closing_ml_away": -102,
+      "closing_ml_captured_at": "2026-07-17 18:30:02 UTC",
+      "is_locked": true,
+      "locked_at": "2026-07-17 17:36:01 UTC",
+      "locked_pick": "Boston Red Sox",
+      "locked_pick_ml": -121,
+      "locked_confidence": 53.2,
+      "locked_edge": 1.4,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -121,
+      "locked_away_ml": 100,
+      "locked_home_pitcher": "TBD",
+      "locked_away_pitcher": "TBD",
+      "locked_sharp_signal": "neutral",
+      "locked_line_move": 5
     },
     {
       "away_team": "Baltimore Orioles",
@@ -496,7 +555,10 @@
       "thin_sp": false,
       "game_time": "2026-07-18T00:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Peter Lambert at full strength (86 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -117,
+      "closing_ml_away": -103,
+      "closing_ml_captured_at": "2026-07-17 18:30:02 UTC"
     },
     {
       "away_team": "Los Angeles Dodgers",
@@ -537,7 +599,16 @@
       "thin_sp": false,
       "game_time": "2026-07-17T23:05Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Gerrit Cole at full strength (49 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -104,
+      "closing_ml_away": -115,
+      "closing_ml_captured_at": "2026-07-17 18:30:02 UTC",
+      "live_pick": "Los Angeles Dodgers",
+      "live_confidence": 50.1,
+      "live_edge": 1.6,
+      "live_model_diverged": true,
+      "live_pick_changed": true,
+      "live_updated_at": "2026-07-17 18:07:02 UTC"
     },
     {
       "away_team": "St. Louis Cardinals",
@@ -578,7 +649,10 @@
       "thin_sp": false,
       "game_time": "2026-07-18T01:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Michael McGreevy at full strength (101 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -107,
+      "closing_ml_away": -112,
+      "closing_ml_captured_at": "2026-07-17 18:30:02 UTC"
     },
     {
       "away_team": "Washington Nationals",
@@ -619,7 +693,10 @@
       "thin_sp": false,
       "game_time": "2026-07-18T01:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Cade Cavalli at full strength (98 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 112,
+      "closing_ml_away": -135,
+      "closing_ml_captured_at": "2026-07-17 18:30:02 UTC"
     },
     {
       "away_team": "San Diego Padres",
@@ -660,7 +737,10 @@
       "thin_sp": false,
       "game_time": "2026-07-18T00:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Michael King at full strength (108 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 102,
+      "closing_ml_away": -123,
+      "closing_ml_captured_at": "2026-07-17 18:30:02 UTC"
     },
     {
       "away_team": "Detroit Tigers",
@@ -701,7 +781,10 @@
       "thin_sp": false,
       "game_time": "2026-07-18T01:38Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Troy Melton at full strength (49 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -105,
+      "closing_ml_away": -114,
+      "closing_ml_captured_at": "2026-07-17 18:30:02 UTC"
     }
   ]
 }
