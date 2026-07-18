@@ -45,7 +45,10 @@
       "thin_sp": false,
       "game_time": "2026-07-19T00:08Z",
       "the_read": "V10 leans this way with a calibrated read (64%). Bryan Woo at full strength (104 IP). Sharps confirm the lean.",
-      "display_tier": "PLAY"
+      "display_tier": "PLAY",
+      "closing_ml_home": -157,
+      "closing_ml_away": 130,
+      "closing_ml_captured_at": "2026-07-18 18:30:01 UTC"
     },
     {
       "away_team": "New York Mets",
@@ -86,7 +89,10 @@
       "thin_sp": false,
       "game_time": "2026-07-18T19:05Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Jes\u00fas Luzardo at full strength (110 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -172,
+      "closing_ml_away": 142,
+      "closing_ml_captured_at": "2026-07-18 18:30:01 UTC"
     },
     {
       "away_team": "Miami Marlins",
@@ -127,7 +133,10 @@
       "thin_sp": false,
       "game_time": "2026-07-18T20:10Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Shane Drohan at full strength (70 IP). Sharps confirm the lean.",
-      "display_tier": "LEAN"
+      "display_tier": "LEAN",
+      "closing_ml_home": -144,
+      "closing_ml_away": 119,
+      "closing_ml_captured_at": "2026-07-18 18:30:01 UTC"
     },
     {
       "away_team": "Minnesota Twins",
@@ -168,26 +177,42 @@
       "thin_sp": false,
       "game_time": "2026-07-18T18:20Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Matthew Boyd at full strength (46 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -163,
+      "closing_ml_away": 135,
+      "closing_ml_captured_at": "2026-07-18 18:15:01 UTC",
+      "is_locked": true,
+      "locked_at": "2026-07-18 18:16:01 UTC",
+      "locked_pick": "Chicago Cubs",
+      "locked_pick_ml": -149,
+      "locked_confidence": 55.9,
+      "locked_edge": -1.8,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -149,
+      "locked_away_ml": 123,
+      "locked_home_pitcher": "Matthew Boyd",
+      "locked_away_pitcher": "Taj Bradley",
+      "locked_sharp_signal": "neutral",
+      "locked_line_move": 1
     },
     {
       "away_team": "Pittsburgh Pirates",
       "home_team": "Cleveland Guardians",
       "away_record": "50-47",
       "home_record": "51-46",
-      "away_pitcher": "Jared Jones",
-      "home_pitcher": "Gavin Williams",
-      "away_sp_ip": 35,
-      "home_sp_ip": 113.1,
+      "away_pitcher": "TBD",
+      "home_pitcher": "Logan Allen",
+      "away_sp_ip": 0,
+      "home_sp_ip": null,
       "away_sp_siera": 3.53,
-      "home_sp_siera": 3.32,
-      "away_sp_weight": 100,
-      "home_sp_weight": 100,
+      "home_sp_siera": null,
+      "away_sp_weight": 0,
+      "home_sp_weight": 0,
       "venue": "Progressive Field",
       "park_factor": 0.99,
-      "away_ml": 109,
-      "home_ml": -131,
-      "ml_open_home": -131,
+      "away_ml": -110,
+      "home_ml": -110,
+      "ml_open_home": -110,
       "line_move": 0,
       "sharp_signal": "neutral",
       "h_cum_rd": -0.05,
@@ -199,17 +224,39 @@
       "series_finale": 0,
       "game_context": "",
       "model_prob_home": 53.2,
-      "vegas_prob_home": 54.2,
-      "final_prob_home": 53.5,
+      "vegas_prob_home": 50,
+      "final_prob_home": 52.2,
       "pick": "Cleveland Guardians",
-      "confidence": 53.5,
-      "edge": -1.1,
-      "over_under": 7.5,
-      "tbd_flag": null,
-      "thin_sp": false,
+      "confidence": 52.2,
+      "edge": 2.2,
+      "over_under": 8,
+      "tbd_flag": "AWAY TBD",
+      "thin_sp": true,
       "game_time": "2026-07-18T17:10Z",
-      "the_read": "V10 and the market are closely aligned - no clear lean. Gavin Williams at full strength (113 IP).",
-      "display_tier": "PASS"
+      "the_read": "Re-evaluated after starter change (Gavin Williams \u2192 Logan Allen (home)). Stays PASS.",
+      "display_tier": "PASS",
+      "closing_ml_home": -110,
+      "closing_ml_away": -110,
+      "closing_ml_captured_at": "2026-07-18 18:30:01 UTC",
+      "starter_changed_home": true,
+      "starter_changed_away": false,
+      "original_home_pitcher": "Gavin Williams",
+      "current_home_pitcher": "Logan Allen",
+      "starter_change_detected_at": "2026-07-18 17:05:02 UTC",
+      "re_evaluated_at": "2026-07-18 18:05:01 UTC",
+      "is_locked": true,
+      "locked_at": "2026-07-18 17:12:01 UTC",
+      "locked_pick": "Cleveland Guardians",
+      "locked_pick_ml": -110,
+      "locked_confidence": 52.2,
+      "locked_edge": 3.2,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -110,
+      "locked_away_ml": -110,
+      "locked_home_pitcher": "Logan Allen",
+      "locked_away_pitcher": "TBD",
+      "locked_sharp_signal": "neutral",
+      "locked_line_move": 0
     },
     {
       "away_team": "Pittsburgh Pirates",
@@ -226,9 +273,9 @@
       "home_sp_weight": 0,
       "venue": "Progressive Field",
       "park_factor": 0.99,
-      "away_ml": 109,
-      "home_ml": -131,
-      "ml_open_home": -131,
+      "away_ml": -110,
+      "home_ml": -110,
+      "ml_open_home": -110,
       "line_move": 0,
       "sharp_signal": "neutral",
       "h_cum_rd": -0.05,
@@ -240,17 +287,33 @@
       "series_finale": 0,
       "game_context": "",
       "model_prob_home": 53.2,
-      "vegas_prob_home": 54.2,
-      "final_prob_home": 53.5,
+      "vegas_prob_home": 50,
+      "final_prob_home": 52.2,
       "pick": "Cleveland Guardians",
-      "confidence": 53.5,
-      "edge": -1.1,
-      "over_under": 7.5,
+      "confidence": 52.2,
+      "edge": 3.2,
+      "over_under": 8,
       "tbd_flag": "AWAY TBD",
       "thin_sp": true,
       "game_time": "2026-07-18T17:10Z",
-      "the_read": "V10 and the market are closely aligned - no clear lean. Bullpen edge drives the lean.",
-      "display_tier": "PASS"
+      "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Bullpen edge drives the lean.",
+      "display_tier": "PASS",
+      "closing_ml_home": -110,
+      "closing_ml_away": -110,
+      "closing_ml_captured_at": "2026-07-18 18:30:01 UTC",
+      "is_locked": true,
+      "locked_at": "2026-07-18 17:12:01 UTC",
+      "locked_pick": "Cleveland Guardians",
+      "locked_pick_ml": -110,
+      "locked_confidence": 52.2,
+      "locked_edge": 3.2,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -110,
+      "locked_away_ml": -110,
+      "locked_home_pitcher": "Logan Allen",
+      "locked_away_pitcher": "TBD",
+      "locked_sharp_signal": "neutral",
+      "locked_line_move": 0
     },
     {
       "away_team": "Chicago White Sox",
@@ -291,7 +354,10 @@
       "thin_sp": true,
       "game_time": "2026-07-18T19:07Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Shane Bieber on a limited sample (17 IP). Mild sharp action confirms.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -111,
+      "closing_ml_away": -108,
+      "closing_ml_captured_at": "2026-07-18 18:30:01 UTC"
     },
     {
       "away_team": "Pittsburgh Pirates",
@@ -299,11 +365,11 @@
       "away_record": "50-47",
       "home_record": "51-46",
       "away_pitcher": "Jared Jones",
-      "home_pitcher": "Gavin Williams",
+      "home_pitcher": "Logan Allen",
       "away_sp_ip": 35,
-      "home_sp_ip": 113.1,
+      "home_sp_ip": null,
       "away_sp_siera": 3.53,
-      "home_sp_siera": 3.32,
+      "home_sp_siera": null,
       "away_sp_weight": 100,
       "home_sp_weight": 100,
       "venue": "Progressive Field",
@@ -323,16 +389,25 @@
       "game_context": "",
       "model_prob_home": 53.2,
       "vegas_prob_home": 49.1,
-      "final_prob_home": 52,
+      "final_prob_home": 52.0,
       "pick": "Cleveland Guardians",
-      "confidence": 52,
-      "edge": 4,
+      "confidence": 52.0,
+      "edge": 2.9,
       "over_under": 8.5,
       "tbd_flag": null,
-      "thin_sp": false,
+      "thin_sp": true,
       "game_time": "2026-07-18T23:10Z",
-      "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Gavin Williams at full strength (113 IP).",
-      "display_tier": "PASS"
+      "the_read": "Re-evaluated after starter change (Gavin Williams \u2192 Logan Allen (home)). Stays PASS.",
+      "display_tier": "PASS",
+      "closing_ml_home": -110,
+      "closing_ml_away": -110,
+      "closing_ml_captured_at": "2026-07-18 18:30:01 UTC",
+      "starter_changed_home": true,
+      "starter_changed_away": false,
+      "original_home_pitcher": "Gavin Williams",
+      "current_home_pitcher": "Logan Allen",
+      "starter_change_detected_at": "2026-07-18 17:05:02 UTC",
+      "re_evaluated_at": "2026-07-18 18:05:01 UTC"
     },
     {
       "away_team": "Pittsburgh Pirates",
@@ -373,7 +448,10 @@
       "thin_sp": true,
       "game_time": "2026-07-18T23:10Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Bullpen edge drives the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -110,
+      "closing_ml_away": -110,
+      "closing_ml_captured_at": "2026-07-18 18:30:01 UTC"
     },
     {
       "away_team": "Cincinnati Reds",
@@ -414,7 +492,10 @@
       "thin_sp": false,
       "game_time": "2026-07-18T19:10Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Tomoyuki Sugano at full strength (84 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -103,
+      "closing_ml_away": -117,
+      "closing_ml_captured_at": "2026-07-18 18:30:01 UTC"
     },
     {
       "away_team": "Texas Rangers",
@@ -455,7 +536,10 @@
       "thin_sp": true,
       "game_time": "2026-07-18T20:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Bullpen edge drives the lean. Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -114,
+      "closing_ml_away": -105,
+      "closing_ml_captured_at": "2026-07-18 18:30:01 UTC"
     },
     {
       "away_team": "Los Angeles Dodgers",
@@ -496,7 +580,10 @@
       "thin_sp": false,
       "game_time": "2026-07-19T00:08Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Ryan Weathers at full strength (97 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -113,
+      "closing_ml_away": -106,
+      "closing_ml_captured_at": "2026-07-18 18:30:01 UTC"
     },
     {
       "away_team": "Tampa Bay Rays",
@@ -537,7 +624,10 @@
       "thin_sp": true,
       "game_time": "2026-07-18T20:10Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Bullpen edge drives the lean. Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -114,
+      "closing_ml_away": -106,
+      "closing_ml_captured_at": "2026-07-18 18:30:01 UTC"
     },
     {
       "away_team": "St. Louis Cardinals",
@@ -578,7 +668,10 @@
       "thin_sp": false,
       "game_time": "2026-07-18T20:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Brandon Pfaadt at full strength (53 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -120,
+      "closing_ml_away": 100,
+      "closing_ml_captured_at": "2026-07-18 18:30:01 UTC"
     },
     {
       "away_team": "Baltimore Orioles",
@@ -619,7 +712,10 @@
       "thin_sp": false,
       "game_time": "2026-07-18T20:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Spencer Arrighetti at full strength (82 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -111,
+      "closing_ml_away": -108,
+      "closing_ml_captured_at": "2026-07-18 18:30:01 UTC"
     },
     {
       "away_team": "San Diego Padres",
@@ -660,7 +756,10 @@
       "thin_sp": true,
       "game_time": "2026-07-18T20:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Griffin Canning at full strength (55 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -108,
+      "closing_ml_away": -111,
+      "closing_ml_captured_at": "2026-07-18 18:30:01 UTC"
     },
     {
       "away_team": "Washington Nationals",
@@ -701,7 +800,10 @@
       "thin_sp": false,
       "game_time": "2026-07-19T02:05Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Zack Littell at full strength (90 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -105,
+      "closing_ml_away": -115,
+      "closing_ml_captured_at": "2026-07-18 18:30:01 UTC"
     },
     {
       "away_team": "Detroit Tigers",
@@ -742,7 +844,10 @@
       "thin_sp": false,
       "game_time": "2026-07-19T02:07Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (55%) - that pattern historically favors the market, so it is a pass. Tarik Skubal at full strength (75 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 163,
+      "closing_ml_away": -199,
+      "closing_ml_captured_at": "2026-07-18 18:30:01 UTC"
     }
   ]
 }
