@@ -45,7 +45,10 @@
       "thin_sp": false,
       "game_time": "2026-07-20T23:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Jacob Misiorowski at full strength (111 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -218,
+      "closing_ml_away": 178,
+      "closing_ml_captured_at": "2026-07-20 18:15:02 UTC"
     },
     {
       "away_team": "Baltimore Orioles",
@@ -86,7 +89,10 @@
       "thin_sp": false,
       "game_time": "2026-07-20T23:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Payton Tolle at full strength (84 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -162,
+      "closing_ml_away": 134,
+      "closing_ml_captured_at": "2026-07-20 18:15:02 UTC"
     },
     {
       "away_team": "Cincinnati Reds",
@@ -127,7 +133,10 @@
       "thin_sp": false,
       "game_time": "2026-07-21T01:40Z",
       "the_read": "V10 leans this way with a calibrated read (66%). George Kirby at full strength (110 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -144,
+      "closing_ml_away": 119,
+      "closing_ml_captured_at": "2026-07-20 18:15:02 UTC"
     },
     {
       "away_team": "Chicago White Sox",
@@ -168,7 +177,10 @@
       "thin_sp": false,
       "game_time": "2026-07-21T00:05Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Jacob deGrom at full strength (100 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -167,
+      "closing_ml_away": 138,
+      "closing_ml_captured_at": "2026-07-20 18:15:02 UTC"
     },
     {
       "away_team": "San Diego Padres",
@@ -209,7 +221,10 @@
       "thin_sp": false,
       "game_time": "2026-07-20T23:15Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Bryce Elder at full strength (102 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -131,
+      "closing_ml_away": 109,
+      "closing_ml_captured_at": "2026-07-20 18:15:02 UTC"
     },
     {
       "away_team": "Tampa Bay Rays",
@@ -250,7 +265,10 @@
       "thin_sp": false,
       "game_time": "2026-07-20T23:07Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (51%) - that pattern historically favors the market, so it is a pass. Dylan Cease at full strength (98 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -168,
+      "closing_ml_away": 139,
+      "closing_ml_captured_at": "2026-07-20 18:15:02 UTC"
     },
     {
       "away_team": "Minnesota Twins",
@@ -291,7 +309,10 @@
       "thin_sp": false,
       "game_time": "2026-07-20T22:40Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (58%) - that pattern historically favors the market, so it is a pass. Tanner Bibee at full strength (113 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 109,
+      "closing_ml_away": -131,
+      "closing_ml_captured_at": "2026-07-20 18:15:02 UTC"
     },
     {
       "away_team": "Los Angeles Dodgers",
@@ -332,7 +353,10 @@
       "thin_sp": false,
       "game_time": "2026-07-20T23:00Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Cristopher S\u00e1nchez at full strength (127 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -149,
+      "closing_ml_away": 123,
+      "closing_ml_captured_at": "2026-07-20 18:15:02 UTC"
     },
     {
       "away_team": "Pittsburgh Pirates",
@@ -373,7 +397,10 @@
       "thin_sp": false,
       "game_time": "2026-07-20T23:05Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Ryan Weathers at full strength (97 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -117,
+      "closing_ml_away": -103,
+      "closing_ml_captured_at": "2026-07-20 18:15:02 UTC"
     },
     {
       "away_team": "Athletics",
@@ -414,7 +441,10 @@
       "thin_sp": true,
       "game_time": "2026-07-21T01:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Mitch Bratt on a limited sample (6 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -149,
+      "closing_ml_away": 123,
+      "closing_ml_captured_at": "2026-07-20 18:15:02 UTC"
     },
     {
       "away_team": "St. Louis Cardinals",
@@ -455,7 +485,10 @@
       "thin_sp": false,
       "game_time": "2026-07-21T02:00Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Jos\u00e9 Soriano at full strength (111 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -114,
+      "closing_ml_away": -105,
+      "closing_ml_captured_at": "2026-07-20 18:15:02 UTC"
     },
     {
       "away_team": "San Francisco Giants",
@@ -496,7 +529,10 @@
       "thin_sp": false,
       "game_time": "2026-07-20T23:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Michael Wacha at full strength (119 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -114,
+      "closing_ml_away": -105,
+      "closing_ml_captured_at": "2026-07-20 18:15:02 UTC"
     },
     {
       "away_team": "Detroit Tigers",
@@ -537,7 +573,10 @@
       "thin_sp": false,
       "game_time": "2026-07-21T00:05Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Jameson Taillon at full strength (67 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -114,
+      "closing_ml_away": -105,
+      "closing_ml_captured_at": "2026-07-20 18:15:02 UTC"
     },
     {
       "away_team": "Miami Marlins",
@@ -578,7 +617,10 @@
       "thin_sp": true,
       "game_time": "2026-07-21T00:10Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (54%) - that pattern historically favors the market, so it is a pass. Janson Junk at full strength (65 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -123,
+      "closing_ml_away": 102,
+      "closing_ml_captured_at": "2026-07-20 18:15:02 UTC"
     },
     {
       "away_team": "Washington Nationals",
@@ -619,7 +661,10 @@
       "thin_sp": false,
       "game_time": "2026-07-21T00:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Andrew Alvarez at full strength (49 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 104,
+      "closing_ml_away": -125,
+      "closing_ml_captured_at": "2026-07-20 18:15:02 UTC"
     }
   ]
 }
