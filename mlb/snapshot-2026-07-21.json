@@ -45,7 +45,10 @@
       "thin_sp": false,
       "game_time": "2026-07-22T01:40Z",
       "the_read": "V10 leans this way with a calibrated read (66%). Luis Castillo at full strength (87 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -121,
+      "closing_ml_away": 101,
+      "closing_ml_captured_at": "2026-07-21 18:15:01 UTC"
     },
     {
       "away_team": "Baltimore Orioles",
@@ -53,11 +56,11 @@
       "away_record": "49-52",
       "home_record": "51-48",
       "away_pitcher": "Kyle Bradish",
-      "home_pitcher": "Ranger Suarez",
+      "home_pitcher": "Eduardo Rivera",
       "away_sp_ip": 107.1,
-      "home_sp_ip": 91.1,
+      "home_sp_ip": 9.1,
       "away_sp_siera": 4.3,
-      "home_sp_siera": 3.59,
+      "home_sp_siera": 3.9342,
       "away_sp_weight": 100,
       "home_sp_weight": 100,
       "venue": "Fenway Park",
@@ -80,13 +83,28 @@
       "final_prob_home": 58.8,
       "pick": "Boston Red Sox",
       "confidence": 58.8,
-      "edge": 3.8,
+      "edge": 2.7,
       "over_under": 8.5,
       "tbd_flag": null,
       "thin_sp": false,
       "game_time": "2026-07-21T23:10Z",
-      "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Ranger Suarez at full strength (91 IP).",
-      "display_tier": "LEAN"
+      "the_read": "Re-evaluated after starter change (Ranger Suarez \u2192 Eduardo Rivera (home)). V10 still favors Boston Red Sox.",
+      "display_tier": "LEAN",
+      "closing_ml_home": -109,
+      "closing_ml_away": -110,
+      "closing_ml_captured_at": "2026-07-21 18:15:01 UTC",
+      "starter_changed_home": true,
+      "starter_changed_away": false,
+      "original_home_pitcher": "Ranger Suarez",
+      "current_home_pitcher": "Eduardo Rivera",
+      "starter_change_detected_at": "2026-07-21 17:05:01 UTC",
+      "re_evaluated_at": "2026-07-21 18:05:01 UTC",
+      "live_pick": "Boston Red Sox",
+      "live_confidence": 54.9,
+      "live_edge": 10,
+      "live_model_diverged": true,
+      "live_pick_changed": false,
+      "live_updated_at": "2026-07-21 18:07:01 UTC"
     },
     {
       "away_team": "Minnesota Twins",
@@ -127,7 +145,10 @@
       "thin_sp": false,
       "game_time": "2026-07-21T22:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Parker Messick at full strength (112 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -150,
+      "closing_ml_away": 124,
+      "closing_ml_captured_at": "2026-07-21 18:15:01 UTC"
     },
     {
       "away_team": "New York Mets",
@@ -168,7 +189,10 @@
       "thin_sp": true,
       "game_time": "2026-07-21T23:40Z",
       "the_read": "V10 leans this way with a calibrated read (62%). Brandon Sproat at full strength (82 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -136,
+      "closing_ml_away": 113,
+      "closing_ml_captured_at": "2026-07-21 18:15:01 UTC"
     },
     {
       "away_team": "San Diego Padres",
@@ -209,7 +233,10 @@
       "thin_sp": false,
       "game_time": "2026-07-21T23:15Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Reynaldo L\u00f3pez at full strength (61 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -147,
+      "closing_ml_away": 122,
+      "closing_ml_captured_at": "2026-07-21 18:15:01 UTC"
     },
     {
       "away_team": "Chicago White Sox",
@@ -250,7 +277,10 @@
       "thin_sp": false,
       "game_time": "2026-07-22T00:05Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Kumar Rocker at full strength (90 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -124,
+      "closing_ml_away": 103,
+      "closing_ml_captured_at": "2026-07-21 18:15:01 UTC"
     },
     {
       "away_team": "Athletics",
@@ -291,7 +321,10 @@
       "thin_sp": true,
       "game_time": "2026-07-22T01:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Bullpen edge drives the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -137,
+      "closing_ml_away": 114,
+      "closing_ml_captured_at": "2026-07-21 18:15:01 UTC"
     },
     {
       "away_team": "Pittsburgh Pirates",
@@ -332,7 +365,10 @@
       "thin_sp": false,
       "game_time": "2026-07-21T23:05Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Will Warren at full strength (98 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -131,
+      "closing_ml_away": 109,
+      "closing_ml_captured_at": "2026-07-21 18:15:01 UTC"
     },
     {
       "away_team": "St. Louis Cardinals",
@@ -373,7 +409,10 @@
       "thin_sp": false,
       "game_time": "2026-07-22T01:38Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Walbert Ure\u00f1a at full strength (81 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -118,
+      "closing_ml_away": -102,
+      "closing_ml_captured_at": "2026-07-21 18:15:01 UTC"
     },
     {
       "away_team": "Tampa Bay Rays",
@@ -414,7 +453,10 @@
       "thin_sp": false,
       "game_time": "2026-07-21T23:07Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Kevin Gausman at full strength (112 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -110,
+      "closing_ml_away": -110,
+      "closing_ml_captured_at": "2026-07-21 18:15:01 UTC"
     },
     {
       "away_team": "Los Angeles Dodgers",
@@ -455,7 +497,10 @@
       "thin_sp": false,
       "game_time": "2026-07-21T22:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Zack Wheeler at full strength (93 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -122,
+      "closing_ml_away": 101,
+      "closing_ml_captured_at": "2026-07-21 18:15:01 UTC"
     },
     {
       "away_team": "Detroit Tigers",
@@ -496,7 +541,10 @@
       "thin_sp": false,
       "game_time": "2026-07-22T00:05Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. David Peterson at full strength (82 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -122,
+      "closing_ml_away": 101,
+      "closing_ml_captured_at": "2026-07-21 18:15:01 UTC"
     },
     {
       "away_team": "San Francisco Giants",
@@ -537,7 +585,10 @@
       "thin_sp": false,
       "game_time": "2026-07-21T23:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Tyler Mahle at full strength (78 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -104,
+      "closing_ml_away": -115,
+      "closing_ml_captured_at": "2026-07-21 18:15:01 UTC"
     },
     {
       "away_team": "Miami Marlins",
@@ -578,7 +629,10 @@
       "thin_sp": false,
       "game_time": "2026-07-22T00:10Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (53%) - that pattern historically favors the market, so it is a pass. Tyler Phillips at full strength (75 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -126,
+      "closing_ml_away": 104,
+      "closing_ml_captured_at": "2026-07-21 18:15:01 UTC"
     },
     {
       "away_team": "Washington Nationals",
@@ -619,7 +673,10 @@
       "thin_sp": true,
       "game_time": "2026-07-22T00:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Carson Palmquist on a limited sample (9 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -107,
+      "closing_ml_away": -112,
+      "closing_ml_captured_at": "2026-07-21 18:15:01 UTC"
     }
   ]
 }
