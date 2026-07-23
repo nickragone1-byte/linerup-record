@@ -45,7 +45,10 @@
       "thin_sp": true,
       "game_time": "2026-07-23T22:40Z",
       "the_read": "V10 leans this way with a calibrated read (63%). Troy Melton at full strength (55 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -229,
+      "closing_ml_away": 186,
+      "closing_ml_captured_at": "2026-07-23 18:15:01 UTC"
     },
     {
       "away_team": "Minnesota Twins",
@@ -86,7 +89,23 @@
       "thin_sp": false,
       "game_time": "2026-07-23T17:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Gavin Williams at full strength (119 IP). Sharps confirm the lean.",
-      "display_tier": "LEAN"
+      "display_tier": "LEAN",
+      "closing_ml_home": -149,
+      "closing_ml_away": 123,
+      "closing_ml_captured_at": "2026-07-23 17:00:02 UTC",
+      "is_locked": true,
+      "locked_at": "2026-07-23 17:06:02 UTC",
+      "locked_pick": "Cleveland Guardians",
+      "locked_pick_ml": -149,
+      "locked_confidence": 60.1,
+      "locked_edge": 2.1,
+      "locked_display_tier": "LEAN",
+      "locked_home_ml": -149,
+      "locked_away_ml": 123,
+      "locked_home_pitcher": "Gavin Williams",
+      "locked_away_pitcher": "Taj Bradley",
+      "locked_sharp_signal": "sharp on HOME",
+      "locked_line_move": -18
     },
     {
       "away_team": "Arizona Diamondbacks",
@@ -127,7 +146,10 @@
       "thin_sp": false,
       "game_time": "2026-07-23T21:15Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Michael McGreevy at full strength (108 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -118,
+      "closing_ml_away": -102,
+      "closing_ml_captured_at": "2026-07-23 18:15:01 UTC"
     },
     {
       "away_team": "Tampa Bay Rays",
@@ -168,7 +190,10 @@
       "thin_sp": false,
       "game_time": "2026-07-23T19:07Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Casey Legumina at full strength (41 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -104,
+      "closing_ml_away": -115,
+      "closing_ml_captured_at": "2026-07-23 18:15:01 UTC"
     }
   ]
 }
