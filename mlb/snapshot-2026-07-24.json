@@ -45,7 +45,10 @@
       "thin_sp": false,
       "game_time": "2026-07-24T20:10Z",
       "the_read": "V10 leans this way with a calibrated read (70%). Shane Drohan at full strength (76 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -294,
+      "closing_ml_away": 234,
+      "closing_ml_captured_at": "2026-07-24 18:15:01 UTC"
     },
     {
       "away_team": "Kansas City Royals",
@@ -86,7 +89,10 @@
       "thin_sp": false,
       "game_time": "2026-07-24T22:40Z",
       "the_read": "V10 leans this way with a calibrated read (63%). Tarik Skubal at full strength (82 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -271,
+      "closing_ml_away": 217,
+      "closing_ml_captured_at": "2026-07-24 18:15:01 UTC"
     },
     {
       "away_team": "New York Yankees",
@@ -127,7 +133,10 @@
       "thin_sp": false,
       "game_time": "2026-07-24T22:45Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Jes\u00fas Luzardo at full strength (115 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -142,
+      "closing_ml_away": 118,
+      "closing_ml_captured_at": "2026-07-24 18:15:01 UTC"
     },
     {
       "away_team": "Cincinnati Reds",
@@ -168,7 +177,10 @@
       "thin_sp": false,
       "game_time": "2026-07-25T00:15Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Dustin May at full strength (98 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -148,
+      "closing_ml_away": 129,
+      "closing_ml_captured_at": "2026-07-24 18:15:01 UTC"
     },
     {
       "away_team": "Athletics",
@@ -209,7 +221,10 @@
       "thin_sp": false,
       "game_time": "2026-07-25T00:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Zebby Matthews at full strength (70 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -149,
+      "closing_ml_away": 123,
+      "closing_ml_captured_at": "2026-07-24 18:15:01 UTC"
     },
     {
       "away_team": "Toronto Blue Jays",
@@ -250,7 +265,10 @@
       "thin_sp": true,
       "game_time": "2026-07-24T23:15Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Patrick Sandoval on a limited sample (9 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -124,
+      "closing_ml_away": 103,
+      "closing_ml_captured_at": "2026-07-24 18:15:01 UTC"
     },
     {
       "away_team": "San Diego Padres",
@@ -291,7 +309,10 @@
       "thin_sp": true,
       "game_time": "2026-07-24T23:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Bullpen edge drives the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -136,
+      "closing_ml_away": 113,
+      "closing_ml_captured_at": "2026-07-24 18:15:01 UTC"
     },
     {
       "away_team": "Houston Astros",
@@ -332,7 +353,10 @@
       "thin_sp": false,
       "game_time": "2026-07-24T23:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Davis Martin at full strength (106 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -129,
+      "closing_ml_away": 107,
+      "closing_ml_captured_at": "2026-07-24 18:15:01 UTC"
     },
     {
       "away_team": "Arizona Diamondbacks",
@@ -373,7 +397,10 @@
       "thin_sp": true,
       "game_time": "2026-07-24T22:45Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (56%) - that pattern historically favors the market, so it is a pass. Carson Palmquist on a limited sample (11 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 104,
+      "closing_ml_away": -126,
+      "closing_ml_captured_at": "2026-07-24 18:15:01 UTC"
     },
     {
       "away_team": "Cleveland Guardians",
@@ -414,7 +441,10 @@
       "thin_sp": false,
       "game_time": "2026-07-24T23:10Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Shane McClanahan at full strength (91 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -127,
+      "closing_ml_away": 105,
+      "closing_ml_captured_at": "2026-07-24 18:15:01 UTC"
     },
     {
       "away_team": "Los Angeles Angels",
@@ -455,7 +485,10 @@
       "thin_sp": false,
       "game_time": "2026-07-25T02:15Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (50%) - that pattern historically favors the market, so it is a pass. Logan Webb at full strength (107 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -157,
+      "closing_ml_away": 130,
+      "closing_ml_captured_at": "2026-07-24 18:15:01 UTC"
     },
     {
       "away_team": "Chicago Cubs",
@@ -496,7 +529,10 @@
       "thin_sp": false,
       "game_time": "2026-07-24T22:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Jared Jones at full strength (40 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -112,
+      "closing_ml_away": -108,
+      "closing_ml_captured_at": "2026-07-24 18:15:01 UTC"
     },
     {
       "away_team": "Seattle Mariners",
@@ -537,7 +573,10 @@
       "thin_sp": false,
       "game_time": "2026-07-25T00:05Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Bryce Miller at full strength (63 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -103,
+      "closing_ml_away": -117,
+      "closing_ml_captured_at": "2026-07-24 18:15:01 UTC"
     },
     {
       "away_team": "Atlanta Braves",
@@ -578,7 +617,10 @@
       "thin_sp": true,
       "game_time": "2026-07-24T23:05Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Grant Holmes at full strength (92 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -120,
+      "closing_ml_away": -101,
+      "closing_ml_captured_at": "2026-07-24 18:15:01 UTC"
     },
     {
       "away_team": "Los Angeles Dodgers",
@@ -619,7 +661,10 @@
       "thin_sp": false,
       "game_time": "2026-07-24T23:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Roki Sasaki at full strength (86 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 113,
+      "closing_ml_away": -136,
+      "closing_ml_captured_at": "2026-07-24 18:15:01 UTC"
     }
   ]
 }
