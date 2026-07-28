@@ -45,7 +45,10 @@
       "thin_sp": false,
       "game_time": "2026-07-29T01:40Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (58%) - that pattern historically favors the market, so it is a pass. Michael King at full strength (119 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -231,
+      "closing_ml_away": 187,
+      "closing_ml_captured_at": "2026-07-28 18:30:01 UTC"
     },
     {
       "away_team": "Kansas City Royals",
@@ -86,7 +89,10 @@
       "thin_sp": false,
       "game_time": "2026-07-28T23:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Taj Bradley at full strength (114 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -175,
+      "closing_ml_away": 144,
+      "closing_ml_captured_at": "2026-07-28 18:30:01 UTC"
     },
     {
       "away_team": "Seattle Mariners",
@@ -127,7 +133,10 @@
       "thin_sp": true,
       "game_time": "2026-07-29T02:10Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (56%) - that pattern historically favors the market, so it is a pass. Bullpen edge drives the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -191,
+      "closing_ml_away": 157,
+      "closing_ml_captured_at": "2026-07-28 18:30:01 UTC"
     },
     {
       "away_team": "Arizona Diamondbacks",
@@ -168,7 +177,10 @@
       "thin_sp": false,
       "game_time": "2026-07-28T22:40Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (60%) - that pattern historically favors the market, so it is a pass. Bubba Chandler at full strength (100 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -115,
+      "closing_ml_away": -105,
+      "closing_ml_captured_at": "2026-07-28 18:30:01 UTC"
     },
     {
       "away_team": "Baltimore Orioles",
@@ -209,7 +221,10 @@
       "thin_sp": false,
       "game_time": "2026-07-28T22:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Troy Melton at full strength (60 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -144,
+      "closing_ml_away": 119,
+      "closing_ml_captured_at": "2026-07-28 18:30:01 UTC"
     },
     {
       "away_team": "Texas Rangers",
@@ -250,7 +265,10 @@
       "thin_sp": true,
       "game_time": "2026-07-28T22:40Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (54%) - that pattern historically favors the market, so it is a pass. Griffin Jax at full strength (81 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -181,
+      "closing_ml_away": 149,
+      "closing_ml_captured_at": "2026-07-28 18:30:01 UTC"
     },
     {
       "away_team": "Houston Astros",
@@ -291,7 +309,10 @@
       "thin_sp": false,
       "game_time": "2026-07-29T01:38Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Reid Detmers at full strength (120 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -108,
+      "closing_ml_away": -111,
+      "closing_ml_captured_at": "2026-07-28 18:30:01 UTC"
     },
     {
       "away_team": "Chicago Cubs",
@@ -332,7 +353,10 @@
       "thin_sp": true,
       "game_time": "2026-07-28T23:45Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Colin Rea at full strength (105 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -105,
+      "closing_ml_away": -114,
+      "closing_ml_captured_at": "2026-07-28 18:30:01 UTC"
     },
     {
       "away_team": "Toronto Blue Jays",
@@ -373,7 +397,10 @@
       "thin_sp": false,
       "game_time": "2026-07-28T22:45Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (51%) - that pattern historically favors the market, so it is a pass. Shane Bieber at full strength (30 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -137,
+      "closing_ml_away": 114,
+      "closing_ml_captured_at": "2026-07-28 18:30:01 UTC"
     },
     {
       "away_team": "New York Yankees",
@@ -414,27 +441,30 @@
       "thin_sp": false,
       "game_time": "2026-07-28T23:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Gerrit Cole at full strength (62 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 100,
+      "closing_ml_away": -120,
+      "closing_ml_captured_at": "2026-07-28 18:30:01 UTC"
     },
     {
       "away_team": "Cleveland Guardians",
       "home_team": "Cincinnati Reds",
       "away_record": "54-53",
       "home_record": "49-55",
-      "away_pitcher": "Slade Cecconi",
-      "home_pitcher": "Chase Burns",
-      "away_sp_ip": 103.2,
-      "home_sp_ip": 107.2,
-      "away_sp_siera": 4.52,
+      "away_pitcher": "Gavin Williams",
+      "home_pitcher": "TBD",
+      "away_sp_ip": 126.1,
+      "home_sp_ip": 0,
+      "away_sp_siera": 3.1105,
       "home_sp_siera": 3.59,
       "away_sp_weight": 100,
-      "home_sp_weight": 100,
+      "home_sp_weight": 0,
       "venue": "Great American Ball Park",
       "park_factor": 1.05,
-      "away_ml": 139,
-      "home_ml": -168,
-      "ml_open_home": -168,
-      "line_move": 0,
+      "away_ml": -131,
+      "home_ml": 109,
+      "ml_open_home": 102,
+      "line_move": 7,
       "sharp_signal": "neutral",
       "h_cum_rd": -0.66,
       "a_cum_rd": -0.16,
@@ -445,17 +475,39 @@
       "series_finale": 0,
       "game_context": "",
       "model_prob_home": 41.8,
-      "vegas_prob_home": 60,
-      "final_prob_home": 47.2,
+      "vegas_prob_home": 45.8,
+      "final_prob_home": 43.0,
       "pick": "Cleveland Guardians",
-      "confidence": 52.8,
-      "edge": 18.2,
+      "confidence": 57.0,
+      "edge": -2.8,
       "over_under": 9,
-      "tbd_flag": null,
-      "thin_sp": false,
+      "tbd_flag": "HOME TBD",
+      "thin_sp": true,
       "game_time": "2026-07-28T17:40Z",
-      "the_read": "V10 diverges sharply from the market on a lower-confidence game (58%) - that pattern historically favors the market, so it is a pass. Slade Cecconi at full strength (103 IP).",
-      "display_tier": "PASS"
+      "the_read": "Re-evaluated after starter change (Slade Cecconi \u2192 Gavin Williams (away)). Stays PASS.",
+      "display_tier": "PASS",
+      "closing_ml_home": 109,
+      "closing_ml_away": -131,
+      "closing_ml_captured_at": "2026-07-28 18:30:01 UTC",
+      "starter_changed_home": false,
+      "starter_changed_away": true,
+      "original_away_pitcher": "Slade Cecconi",
+      "current_away_pitcher": "Gavin Williams",
+      "starter_change_detected_at": "2026-07-28 17:05:01 UTC",
+      "re_evaluated_at": "2026-07-28 18:05:01 UTC",
+      "is_locked": true,
+      "locked_at": "2026-07-28 17:42:01 UTC",
+      "locked_pick": "Cleveland Guardians",
+      "locked_pick_ml": -131,
+      "locked_confidence": 57,
+      "locked_edge": 4,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": 109,
+      "locked_away_ml": -131,
+      "locked_home_pitcher": "TBD",
+      "locked_away_pitcher": "Gavin Williams",
+      "locked_sharp_signal": "neutral",
+      "locked_line_move": 7
     },
     {
       "away_team": "Cleveland Guardians",
@@ -472,10 +524,10 @@
       "home_sp_weight": 0,
       "venue": "Great American Ball Park",
       "park_factor": 1.05,
-      "away_ml": 139,
-      "home_ml": -168,
-      "ml_open_home": -168,
-      "line_move": 0,
+      "away_ml": -131,
+      "home_ml": 109,
+      "ml_open_home": 102,
+      "line_move": 7,
       "sharp_signal": "neutral",
       "h_cum_rd": -0.66,
       "a_cum_rd": -0.16,
@@ -486,17 +538,33 @@
       "series_finale": 0,
       "game_context": "",
       "model_prob_home": 41.8,
-      "vegas_prob_home": 60,
-      "final_prob_home": 47.2,
+      "vegas_prob_home": 45.8,
+      "final_prob_home": 43,
       "pick": "Cleveland Guardians",
-      "confidence": 52.8,
-      "edge": 18.2,
+      "confidence": 57,
+      "edge": 4,
       "over_under": 9,
       "tbd_flag": "HOME TBD",
       "thin_sp": true,
       "game_time": "2026-07-28T17:40Z",
-      "the_read": "V10 diverges sharply from the market on a lower-confidence game (58%) - that pattern historically favors the market, so it is a pass. Gavin Williams at full strength (126 IP).",
-      "display_tier": "PASS"
+      "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Gavin Williams at full strength (126 IP).",
+      "display_tier": "PASS",
+      "closing_ml_home": 109,
+      "closing_ml_away": -131,
+      "closing_ml_captured_at": "2026-07-28 18:30:01 UTC",
+      "is_locked": true,
+      "locked_at": "2026-07-28 17:42:01 UTC",
+      "locked_pick": "Cleveland Guardians",
+      "locked_pick_ml": -131,
+      "locked_confidence": 57,
+      "locked_edge": 4,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": 109,
+      "locked_away_ml": -131,
+      "locked_home_pitcher": "TBD",
+      "locked_away_pitcher": "Gavin Williams",
+      "locked_sharp_signal": "neutral",
+      "locked_line_move": 7
     },
     {
       "away_team": "Atlanta Braves",
@@ -537,7 +605,10 @@
       "thin_sp": false,
       "game_time": "2026-07-28T23:10Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (50%) - that pattern historically favors the market, so it is a pass. Chris Sale at full strength (111 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 135,
+      "closing_ml_away": -163,
+      "closing_ml_captured_at": "2026-07-28 17:30:02 UTC"
     },
     {
       "away_team": "Philadelphia Phillies",
@@ -578,18 +649,21 @@
       "thin_sp": false,
       "game_time": "2026-07-28T22:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Aaron Nola at full strength (108 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -112,
+      "closing_ml_away": -107,
+      "closing_ml_captured_at": "2026-07-28 18:30:01 UTC"
     },
     {
       "away_team": "Cleveland Guardians",
       "home_team": "Cincinnati Reds",
       "away_record": "54-53",
       "home_record": "49-55",
-      "away_pitcher": "Slade Cecconi",
+      "away_pitcher": "Gavin Williams",
       "home_pitcher": "Chase Burns",
-      "away_sp_ip": 103.2,
+      "away_sp_ip": 126.1,
       "home_sp_ip": 107.2,
-      "away_sp_siera": 4.52,
+      "away_sp_siera": 3.1105,
       "home_sp_siera": 3.59,
       "away_sp_weight": 100,
       "home_sp_weight": 100,
@@ -610,16 +684,25 @@
       "game_context": "",
       "model_prob_home": 41.8,
       "vegas_prob_home": 46,
-      "final_prob_home": 43,
+      "final_prob_home": 43.1,
       "pick": "Cleveland Guardians",
-      "confidence": 57,
-      "edge": 4.2,
+      "confidence": 56.9,
+      "edge": -2.9,
       "over_under": 9,
       "tbd_flag": null,
       "thin_sp": false,
       "game_time": "2026-07-28T23:10Z",
-      "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Slade Cecconi at full strength (103 IP).",
-      "display_tier": "LEAN"
+      "the_read": "Re-evaluated after starter change (Slade Cecconi \u2192 Gavin Williams (away)). Stays PASS.",
+      "display_tier": "PASS",
+      "closing_ml_home": 109,
+      "closing_ml_away": -131,
+      "closing_ml_captured_at": "2026-07-28 18:30:01 UTC",
+      "starter_changed_home": false,
+      "starter_changed_away": true,
+      "original_away_pitcher": "Slade Cecconi",
+      "current_away_pitcher": "Gavin Williams",
+      "starter_change_detected_at": "2026-07-28 17:05:01 UTC",
+      "re_evaluated_at": "2026-07-28 18:05:01 UTC"
     },
     {
       "away_team": "Cleveland Guardians",
@@ -660,7 +743,10 @@
       "thin_sp": true,
       "game_time": "2026-07-28T23:10Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Gavin Williams at full strength (126 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 109,
+      "closing_ml_away": -131,
+      "closing_ml_captured_at": "2026-07-28 18:30:01 UTC"
     },
     {
       "away_team": "Boston Red Sox",
@@ -701,7 +787,10 @@
       "thin_sp": false,
       "game_time": "2026-07-29T01:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Jake Bennett at full strength (59 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 124,
+      "closing_ml_away": -150,
+      "closing_ml_captured_at": "2026-07-28 18:30:01 UTC"
     },
     {
       "away_team": "Milwaukee Brewers",
@@ -742,7 +831,10 @@
       "thin_sp": false,
       "game_time": "2026-07-29T01:45Z",
       "the_read": "V10 leans this way with a calibrated read (63%). Logan Henderson at full strength (38 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 129,
+      "closing_ml_away": -156,
+      "closing_ml_captured_at": "2026-07-28 18:30:01 UTC"
     }
   ]
 }
