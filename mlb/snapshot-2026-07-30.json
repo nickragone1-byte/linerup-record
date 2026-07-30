@@ -45,7 +45,10 @@
       "thin_sp": true,
       "game_time": "2026-07-31T01:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. JP Sears at full strength (28 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -161,
+      "closing_ml_away": 133,
+      "closing_ml_captured_at": "2026-07-30 18:15:01 UTC"
     },
     {
       "away_team": "Washington Nationals",
@@ -86,7 +89,10 @@
       "thin_sp": false,
       "game_time": "2026-07-30T23:00Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Grant Holmes at full strength (97 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -156,
+      "closing_ml_away": 129,
+      "closing_ml_captured_at": "2026-07-30 18:15:01 UTC"
     },
     {
       "away_team": "Seattle Mariners",
@@ -127,7 +133,10 @@
       "thin_sp": false,
       "game_time": "2026-07-31T02:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Roki Sasaki at full strength (93 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -162,
+      "closing_ml_away": 134,
+      "closing_ml_captured_at": "2026-07-30 18:15:01 UTC"
     },
     {
       "away_team": "Kansas City Royals",
@@ -144,10 +153,10 @@
       "home_sp_weight": 100,
       "venue": "Target Field",
       "park_factor": 0.99,
-      "away_ml": 114,
-      "home_ml": -137,
+      "away_ml": 113,
+      "home_ml": -136,
       "ml_open_home": -143,
-      "line_move": 6,
+      "line_move": 7,
       "sharp_signal": "neutral",
       "h_cum_rd": -0.24,
       "a_cum_rd": -0.9,
@@ -158,17 +167,33 @@
       "series_finale": 1,
       "game_context": "",
       "model_prob_home": 56.8,
-      "vegas_prob_home": 55.3,
-      "final_prob_home": 56.4,
+      "vegas_prob_home": 55.1,
+      "final_prob_home": 56.3,
       "pick": "Minnesota Twins",
-      "confidence": 56.4,
-      "edge": 1.5,
+      "confidence": 56.3,
+      "edge": 1.7,
       "over_under": 9,
       "tbd_flag": null,
       "thin_sp": false,
       "game_time": "2026-07-30T17:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Bailey Ober at full strength (81 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -136,
+      "closing_ml_away": 113,
+      "closing_ml_captured_at": "2026-07-30 17:30:01 UTC",
+      "is_locked": true,
+      "locked_at": "2026-07-30 17:36:01 UTC",
+      "locked_pick": "Minnesota Twins",
+      "locked_pick_ml": -136,
+      "locked_confidence": 56.3,
+      "locked_edge": 1.7,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -136,
+      "locked_away_ml": 113,
+      "locked_home_pitcher": "Bailey Ober",
+      "locked_away_pitcher": "Noah Cameron",
+      "locked_sharp_signal": "neutral",
+      "locked_line_move": 7
     },
     {
       "away_team": "Texas Rangers",
@@ -209,7 +234,20 @@
       "thin_sp": false,
       "game_time": "2026-07-30T16:10Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (54%) - that pattern historically favors the market, so it is a pass. Shane McClanahan at full strength (96 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "is_locked": true,
+      "locked_at": "2026-07-30 16:32:01 UTC",
+      "locked_pick": "Tampa Bay Rays",
+      "locked_pick_ml": -185,
+      "locked_confidence": 56.1,
+      "locked_edge": -8.5,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -185,
+      "locked_away_ml": 152,
+      "locked_home_pitcher": "Shane McClanahan",
+      "locked_away_pitcher": "Cole Winn",
+      "locked_sharp_signal": "no data",
+      "locked_line_move": null
     },
     {
       "away_team": "Miami Marlins",
@@ -250,7 +288,10 @@
       "thin_sp": false,
       "game_time": "2026-07-30T23:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Nolan McLean at full strength (119 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -131,
+      "closing_ml_away": 109,
+      "closing_ml_captured_at": "2026-07-30 18:15:01 UTC"
     },
     {
       "away_team": "Chicago Cubs",
@@ -267,7 +308,7 @@
       "home_sp_weight": 100,
       "venue": "Busch Stadium",
       "park_factor": 0.98,
-      "away_ml": -105,
+      "away_ml": -106,
       "home_ml": -114,
       "ml_open_home": -118,
       "line_move": 4,
@@ -281,17 +322,33 @@
       "series_finale": 1,
       "game_context": "",
       "model_prob_home": 49,
-      "vegas_prob_home": 51,
-      "final_prob_home": 49.6,
+      "vegas_prob_home": 50.9,
+      "final_prob_home": 49.5,
       "pick": "Chicago Cubs",
-      "confidence": 50.4,
-      "edge": 2,
+      "confidence": 50.5,
+      "edge": 1.9,
       "over_under": 8.5,
       "tbd_flag": null,
       "thin_sp": false,
       "game_time": "2026-07-30T18:15Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Javier Assad at full strength (65 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -114,
+      "closing_ml_away": -106,
+      "closing_ml_captured_at": "2026-07-30 18:15:01 UTC",
+      "is_locked": true,
+      "locked_at": "2026-07-30 18:10:01 UTC",
+      "locked_pick": "Chicago Cubs",
+      "locked_pick_ml": -106,
+      "locked_confidence": 50.5,
+      "locked_edge": 1.9,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -114,
+      "locked_away_ml": -106,
+      "locked_home_pitcher": "Andre Pallante",
+      "locked_away_pitcher": "Javier Assad",
+      "locked_sharp_signal": "neutral",
+      "locked_line_move": 4
     },
     {
       "away_team": "New York Yankees",
@@ -332,7 +389,23 @@
       "thin_sp": false,
       "game_time": "2026-07-30T18:10Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Ryan Weathers at full strength (108 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -110,
+      "closing_ml_away": -110,
+      "closing_ml_captured_at": "2026-07-30 18:00:02 UTC",
+      "is_locked": true,
+      "locked_at": "2026-07-30 18:06:01 UTC",
+      "locked_pick": "New York Yankees",
+      "locked_pick_ml": -110,
+      "locked_confidence": 52.3,
+      "locked_edge": 3.3,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -110,
+      "locked_away_ml": -110,
+      "locked_home_pitcher": "Sean Burke",
+      "locked_away_pitcher": "Ryan Weathers",
+      "locked_sharp_signal": "neutral",
+      "locked_line_move": 4
     },
     {
       "away_team": "Pittsburgh Pirates",
@@ -373,7 +446,10 @@
       "thin_sp": false,
       "game_time": "2026-07-30T23:10Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (58%) - that pattern historically favors the market, so it is a pass. Yohan Ram\u00edrez at full strength (56 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -103,
+      "closing_ml_away": -117,
+      "closing_ml_captured_at": "2026-07-30 18:15:01 UTC"
     },
     {
       "away_team": "Boston Red Sox",
@@ -414,7 +490,10 @@
       "thin_sp": false,
       "game_time": "2026-07-31T01:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Sonny Gray at full strength (106 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 157,
+      "closing_ml_away": -191,
+      "closing_ml_captured_at": "2026-07-30 18:15:01 UTC"
     }
   ]
 }
