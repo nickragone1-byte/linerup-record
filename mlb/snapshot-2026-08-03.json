@@ -45,7 +45,10 @@
       "thin_sp": false,
       "game_time": "2026-08-03T23:05Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Cam Schlittler at full strength (136 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -217,
+      "closing_ml_away": 177,
+      "closing_ml_captured_at": "2026-08-03 18:15:01 UTC"
     },
     {
       "away_team": "Washington Nationals",
@@ -86,7 +89,10 @@
       "thin_sp": false,
       "game_time": "2026-08-03T22:40Z",
       "the_read": "V10 leans this way with a calibrated read (62%). Aaron Nola at full strength (114 IP). Mild sharp action confirms.",
-      "display_tier": "LEAN"
+      "display_tier": "LEAN",
+      "closing_ml_home": -158,
+      "closing_ml_away": 131,
+      "closing_ml_captured_at": "2026-08-03 18:15:01 UTC"
     },
     {
       "away_team": "Pittsburgh Pirates",
@@ -127,7 +133,10 @@
       "thin_sp": false,
       "game_time": "2026-08-03T23:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Brandon Sproat at full strength (92 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -150,
+      "closing_ml_away": 124,
+      "closing_ml_captured_at": "2026-08-03 18:15:01 UTC"
     },
     {
       "away_team": "San Francisco Giants",
@@ -168,7 +177,10 @@
       "thin_sp": true,
       "game_time": "2026-08-04T00:00Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Bullpen edge drives the lean. Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -125,
+      "closing_ml_away": 104,
+      "closing_ml_captured_at": "2026-08-03 18:15:01 UTC"
     },
     {
       "away_team": "San Diego Padres",
@@ -209,7 +221,10 @@
       "thin_sp": false,
       "game_time": "2026-08-04T01:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Brandon Pfaadt at full strength (72 IP). Mild sharp action confirms.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -118,
+      "closing_ml_away": -102,
+      "closing_ml_captured_at": "2026-08-03 18:15:01 UTC"
     },
     {
       "away_team": "Toronto Blue Jays",
@@ -250,7 +265,10 @@
       "thin_sp": false,
       "game_time": "2026-08-04T00:10Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Cristian Javier at full strength (21 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -132,
+      "closing_ml_away": 110,
+      "closing_ml_captured_at": "2026-08-03 18:15:01 UTC"
     },
     {
       "away_team": "Los Angeles Dodgers",
@@ -291,7 +309,10 @@
       "thin_sp": true,
       "game_time": "2026-08-04T00:05Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Bullpen edge drives the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 104,
+      "closing_ml_away": -126,
+      "closing_ml_captured_at": "2026-08-03 18:15:01 UTC"
     },
     {
       "away_team": "Tampa Bay Rays",
@@ -332,7 +353,10 @@
       "thin_sp": false,
       "game_time": "2026-08-04T00:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Ian Seymour at full strength (78 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 141,
+      "closing_ml_away": -171,
+      "closing_ml_captured_at": "2026-08-03 18:15:01 UTC"
     }
   ]
 }
