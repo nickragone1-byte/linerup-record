@@ -11,11 +11,11 @@
       "home_team": "Philadelphia Phillies",
       "away_record": "55-59",
       "home_record": "60-53",
-      "away_pitcher": "Zack Littell",
+      "away_pitcher": "Carson Palmquist",
       "home_pitcher": "Jes\u00fas Luzardo",
-      "away_sp_ip": 105.2,
+      "away_sp_ip": 16.0,
       "home_sp_ip": 128.2,
-      "away_sp_siera": 4.98,
+      "away_sp_siera": 4.4863,
       "home_sp_siera": 3.18,
       "away_sp_weight": 100,
       "home_sp_weight": 100,
@@ -39,13 +39,22 @@
       "final_prob_home": 64.5,
       "pick": "Philadelphia Phillies",
       "confidence": 64.5,
-      "edge": -8.2,
+      "edge": -5.7,
       "over_under": 9,
       "tbd_flag": null,
       "thin_sp": false,
       "game_time": "2026-08-04T22:40Z",
-      "the_read": "V10 leans this way with a calibrated read (62%). Jes\u00fas Luzardo at full strength (128 IP).",
-      "display_tier": "PASS"
+      "the_read": "Re-evaluated after starter change (Zack Littell \u2192 Carson Palmquist (away)). Stays PASS.",
+      "display_tier": "PASS",
+      "closing_ml_home": -298,
+      "closing_ml_away": 237,
+      "closing_ml_captured_at": "2026-08-04 18:30:02 UTC",
+      "starter_changed_home": false,
+      "starter_changed_away": true,
+      "original_away_pitcher": "Zack Littell",
+      "current_away_pitcher": "Carson Palmquist",
+      "starter_change_detected_at": "2026-08-04 18:05:01 UTC",
+      "re_evaluated_at": "2026-08-04 18:05:01 UTC"
     },
     {
       "away_team": "St. Louis Cardinals",
@@ -86,7 +95,10 @@
       "thin_sp": false,
       "game_time": "2026-08-04T23:05Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Ryan Weathers at full strength (115 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -205,
+      "closing_ml_away": 168,
+      "closing_ml_captured_at": "2026-08-04 18:30:02 UTC"
     },
     {
       "away_team": "San Francisco Giants",
@@ -127,7 +139,10 @@
       "thin_sp": true,
       "game_time": "2026-08-05T00:05Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. MacKenzie Gore at full strength (122 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -194,
+      "closing_ml_away": 159,
+      "closing_ml_captured_at": "2026-08-04 18:30:02 UTC"
     },
     {
       "away_team": "New York Mets",
@@ -168,7 +183,10 @@
       "thin_sp": false,
       "game_time": "2026-08-04T22:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Joey Cantillo at full strength (113 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -146,
+      "closing_ml_away": 137,
+      "closing_ml_captured_at": "2026-08-04 18:30:02 UTC"
     },
     {
       "away_team": "Pittsburgh Pirates",
@@ -209,7 +227,10 @@
       "thin_sp": false,
       "game_time": "2026-08-04T23:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Logan Henderson at full strength (44 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -149,
+      "closing_ml_away": 123,
+      "closing_ml_captured_at": "2026-08-04 18:30:02 UTC"
     },
     {
       "away_team": "Chicago White Sox",
@@ -250,7 +271,10 @@
       "thin_sp": false,
       "game_time": "2026-08-04T23:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Patrick Sandoval on a limited sample (19 IP). Mild sharp action confirms.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -128,
+      "closing_ml_away": 120,
+      "closing_ml_captured_at": "2026-08-04 18:30:02 UTC"
     },
     {
       "away_team": "Miami Marlins",
@@ -291,7 +315,10 @@
       "thin_sp": false,
       "game_time": "2026-08-04T23:15Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Grant Holmes at full strength (102 IP). Mild sharp action confirms.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -149,
+      "closing_ml_away": 124,
+      "closing_ml_captured_at": "2026-08-04 18:30:02 UTC"
     },
     {
       "away_team": "Los Angeles Angels",
@@ -332,7 +359,10 @@
       "thin_sp": true,
       "game_time": "2026-08-04T22:35Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Bullpen edge drives the lean. Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -156,
+      "closing_ml_away": 129,
+      "closing_ml_captured_at": "2026-08-04 18:30:02 UTC"
     },
     {
       "away_team": "Detroit Tigers",
@@ -373,7 +403,10 @@
       "thin_sp": true,
       "game_time": "2026-08-05T01:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Emerson Hancock at full strength (110 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -119,
+      "closing_ml_away": 112,
+      "closing_ml_captured_at": "2026-08-04 18:30:02 UTC"
     },
     {
       "away_team": "Toronto Blue Jays",
@@ -414,7 +447,16 @@
       "thin_sp": true,
       "game_time": "2026-08-05T00:10Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Hayden Wesneski on a limited sample (5 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -131,
+      "closing_ml_away": 109,
+      "closing_ml_captured_at": "2026-08-04 18:30:02 UTC",
+      "live_pick": "Toronto Blue Jays",
+      "live_confidence": 51.4,
+      "live_edge": -5.4,
+      "live_model_diverged": true,
+      "live_pick_changed": true,
+      "live_updated_at": "2026-08-04 18:07:01 UTC"
     },
     {
       "away_team": "Athletics",
@@ -455,7 +497,10 @@
       "thin_sp": false,
       "game_time": "2026-08-04T22:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Brady Singer at full strength (107 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -136,
+      "closing_ml_away": 113,
+      "closing_ml_captured_at": "2026-08-04 18:30:02 UTC"
     },
     {
       "away_team": "San Diego Padres",
@@ -496,7 +541,10 @@
       "thin_sp": false,
       "game_time": "2026-08-05T01:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Randy V\u00e1squez at full strength (95 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -115,
+      "closing_ml_away": 108,
+      "closing_ml_captured_at": "2026-08-04 18:30:02 UTC"
     },
     {
       "away_team": "Minnesota Twins",
@@ -537,7 +585,10 @@
       "thin_sp": false,
       "game_time": "2026-08-04T23:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Joe Ryan at full strength (120 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 131,
+      "closing_ml_away": -140,
+      "closing_ml_captured_at": "2026-08-04 18:30:02 UTC"
     },
     {
       "away_team": "Los Angeles Dodgers",
@@ -578,7 +629,10 @@
       "thin_sp": false,
       "game_time": "2026-08-05T00:05Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (54%) - that pattern historically favors the market, so it is a pass. Tarik Skubal at full strength (96 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 163,
+      "closing_ml_away": -198,
+      "closing_ml_captured_at": "2026-08-04 18:30:02 UTC"
     },
     {
       "away_team": "Tampa Bay Rays",
@@ -619,7 +673,10 @@
       "thin_sp": false,
       "game_time": "2026-08-05T00:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Freddy Peralta at full strength (113 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 151,
+      "closing_ml_away": -161,
+      "closing_ml_captured_at": "2026-08-04 18:30:02 UTC"
     }
   ]
 }
