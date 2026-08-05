@@ -45,7 +45,10 @@
       "thin_sp": false,
       "game_time": "2026-08-05T22:40Z",
       "the_read": "V10 leans this way with a calibrated read (62%). Andrew Painter at full strength (71 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -186,
+      "closing_ml_away": 174,
+      "closing_ml_captured_at": "2026-08-05 18:15:01 UTC"
     },
     {
       "away_team": "St. Louis Cardinals",
@@ -86,7 +89,10 @@
       "thin_sp": false,
       "game_time": "2026-08-05T23:05Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Will Warren at full strength (108 IP).",
-      "display_tier": "LEAN"
+      "display_tier": "LEAN",
+      "closing_ml_home": -153,
+      "closing_ml_away": 144,
+      "closing_ml_captured_at": "2026-08-05 18:15:01 UTC"
     },
     {
       "away_team": "Pittsburgh Pirates",
@@ -127,7 +133,10 @@
       "thin_sp": false,
       "game_time": "2026-08-05T23:30Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Kyle Harrison at full strength (83 IP).",
-      "display_tier": "LEAN"
+      "display_tier": "LEAN",
+      "closing_ml_home": -127,
+      "closing_ml_away": 119,
+      "closing_ml_captured_at": "2026-08-05 18:15:01 UTC"
     },
     {
       "away_team": "San Francisco Giants",
@@ -144,10 +153,10 @@
       "home_sp_weight": 0,
       "venue": "Globe Life Field",
       "park_factor": 1.04,
-      "away_ml": 144,
-      "home_ml": -153,
+      "away_ml": 138,
+      "home_ml": -147,
       "ml_open_home": -181,
-      "line_move": 28,
+      "line_move": 34,
       "sharp_signal": "sharp on AWAY",
       "h_cum_rd": -0.35,
       "a_cum_rd": -0.43,
@@ -158,17 +167,33 @@
       "series_finale": 1,
       "game_context": "",
       "model_prob_home": 58.4,
-      "vegas_prob_home": 59.6,
-      "final_prob_home": 56.7,
+      "vegas_prob_home": 58.6,
+      "final_prob_home": 56.4,
       "pick": "Texas Rangers",
-      "confidence": 56.7,
-      "edge": -1.3,
+      "confidence": 56.4,
+      "edge": -0.3,
       "over_under": 8.5,
       "tbd_flag": null,
       "thin_sp": true,
       "game_time": "2026-08-05T18:35Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Bullpen edge drives the lean. Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -147,
+      "closing_ml_away": 138,
+      "closing_ml_captured_at": "2026-08-05 18:15:01 UTC",
+      "is_locked": true,
+      "locked_at": "2026-08-05 18:30:01 UTC",
+      "locked_pick": "Texas Rangers",
+      "locked_pick_ml": -147,
+      "locked_confidence": 56.4,
+      "locked_edge": -0.3,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -147,
+      "locked_away_ml": 138,
+      "locked_home_pitcher": "Cody Bradford",
+      "locked_away_pitcher": "Carson Whisenhunt",
+      "locked_sharp_signal": "sharp on AWAY",
+      "locked_line_move": 34
     },
     {
       "away_team": "Chicago White Sox",
@@ -209,7 +234,10 @@
       "thin_sp": false,
       "game_time": "2026-08-05T23:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Sonny Gray at full strength (113 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -128,
+      "closing_ml_away": 120,
+      "closing_ml_captured_at": "2026-08-05 18:15:01 UTC"
     },
     {
       "away_team": "Detroit Tigers",
@@ -250,7 +278,10 @@
       "thin_sp": false,
       "game_time": "2026-08-06T01:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Bryan Woo at full strength (120 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -152,
+      "closing_ml_away": 143,
+      "closing_ml_captured_at": "2026-08-05 18:15:01 UTC"
     },
     {
       "away_team": "Toronto Blue Jays",
@@ -267,8 +298,8 @@
       "home_sp_weight": 100,
       "venue": "Daikin Park",
       "park_factor": 0.99,
-      "away_ml": 198,
-      "home_ml": -212,
+      "away_ml": 195,
+      "home_ml": -208,
       "ml_open_home": -115,
       "line_move": null,
       "sharp_signal": "no data",
@@ -281,17 +312,33 @@
       "series_finale": 1,
       "game_context": "",
       "model_prob_home": 49.2,
-      "vegas_prob_home": 66.9,
-      "final_prob_home": 54.5,
+      "vegas_prob_home": 66.6,
+      "final_prob_home": 54.4,
       "pick": "Houston Astros",
-      "confidence": 54.5,
-      "edge": -17.7,
+      "confidence": 54.4,
+      "edge": -17.4,
       "over_under": 8,
       "tbd_flag": null,
       "thin_sp": false,
       "game_time": "2026-08-05T18:10Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (49%) - that pattern historically favors the market, so it is a pass. Hunter Brown at full strength (52 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -208,
+      "closing_ml_away": 195,
+      "closing_ml_captured_at": "2026-08-05 18:00:02 UTC",
+      "is_locked": true,
+      "locked_at": "2026-08-05 18:06:02 UTC",
+      "locked_pick": "Houston Astros",
+      "locked_pick_ml": -208,
+      "locked_confidence": 54.4,
+      "locked_edge": -17.4,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -208,
+      "locked_away_ml": 195,
+      "locked_home_pitcher": "Hunter Brown",
+      "locked_away_pitcher": "Jameson Taillon",
+      "locked_sharp_signal": "no data",
+      "locked_line_move": null
     },
     {
       "away_team": "Athletics",
@@ -332,7 +379,10 @@
       "thin_sp": false,
       "game_time": "2026-08-05T22:40Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (52%) - that pattern historically favors the market, so it is a pass. Rhett Lowder at full strength (83 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -146,
+      "closing_ml_away": 137,
+      "closing_ml_captured_at": "2026-08-05 18:15:01 UTC"
     },
     {
       "away_team": "New York Mets",
@@ -373,7 +423,10 @@
       "thin_sp": false,
       "game_time": "2026-08-05T22:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Tanner Bibee at full strength (132 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -110,
+      "closing_ml_away": 103,
+      "closing_ml_captured_at": "2026-08-05 18:15:01 UTC"
     },
     {
       "away_team": "Miami Marlins",
@@ -414,7 +467,10 @@
       "thin_sp": false,
       "game_time": "2026-08-05T23:15Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Bryce Elder at full strength (119 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -122,
+      "closing_ml_away": 115,
+      "closing_ml_captured_at": "2026-08-05 18:15:01 UTC"
     },
     {
       "away_team": "Los Angeles Angels",
@@ -455,7 +511,10 @@
       "thin_sp": false,
       "game_time": "2026-08-05T22:35Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Trevor Rogers at full strength (109 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -118,
+      "closing_ml_away": 111,
+      "closing_ml_captured_at": "2026-08-05 18:15:01 UTC"
     },
     {
       "away_team": "Minnesota Twins",
@@ -496,7 +555,10 @@
       "thin_sp": false,
       "game_time": "2026-08-05T23:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Dean Kremer at full strength (36 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -113,
+      "closing_ml_away": 106,
+      "closing_ml_captured_at": "2026-08-05 18:15:01 UTC"
     },
     {
       "away_team": "Los Angeles Dodgers",
@@ -513,11 +575,11 @@
       "home_sp_weight": 100,
       "venue": "Wrigley Field",
       "park_factor": 1.01,
-      "away_ml": 111,
-      "home_ml": -118,
+      "away_ml": 102,
+      "home_ml": -108,
       "ml_open_home": -121,
-      "line_move": 3,
-      "sharp_signal": "neutral",
+      "line_move": 13,
+      "sharp_signal": "mild on AWAY",
       "h_cum_rd": 0.83,
       "a_cum_rd": 1.28,
       "is_playoff": 0,
@@ -527,17 +589,33 @@
       "series_finale": 1,
       "game_context": "",
       "model_prob_home": 46.8,
-      "vegas_prob_home": 53.3,
-      "final_prob_home": 48.8,
+      "vegas_prob_home": 51.2,
+      "final_prob_home": 47.4,
       "pick": "Los Angeles Dodgers",
-      "confidence": 51.2,
-      "edge": 6.5,
+      "confidence": 52.6,
+      "edge": 4.4,
       "over_under": 10,
       "tbd_flag": null,
       "thin_sp": false,
       "game_time": "2026-08-05T18:20Z",
-      "the_read": "V10 diverges sharply from the market on a lower-confidence game (53%) - that pattern historically favors the market, so it is a pass. Eric Lauer at full strength (88 IP).",
-      "display_tier": "PASS"
+      "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Eric Lauer at full strength (88 IP). Mild sharp action against.",
+      "display_tier": "PASS",
+      "closing_ml_home": -108,
+      "closing_ml_away": 102,
+      "closing_ml_captured_at": "2026-08-05 18:15:01 UTC",
+      "is_locked": true,
+      "locked_at": "2026-08-05 18:16:01 UTC",
+      "locked_pick": "Los Angeles Dodgers",
+      "locked_pick_ml": 102,
+      "locked_confidence": 52.6,
+      "locked_edge": 4.4,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -108,
+      "locked_away_ml": 102,
+      "locked_home_pitcher": "Shota Imanaga",
+      "locked_away_pitcher": "Eric Lauer",
+      "locked_sharp_signal": "mild on AWAY",
+      "locked_line_move": 13
     },
     {
       "away_team": "San Diego Padres",
@@ -578,7 +656,10 @@
       "thin_sp": false,
       "game_time": "2026-08-06T01:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Casey Mize at full strength (86 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 112,
+      "closing_ml_away": -119,
+      "closing_ml_captured_at": "2026-08-05 18:15:01 UTC"
     },
     {
       "away_team": "Tampa Bay Rays",
@@ -619,7 +700,10 @@
       "thin_sp": false,
       "game_time": "2026-08-05T19:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Nick Martinez at full strength (123 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 144,
+      "closing_ml_away": -153,
+      "closing_ml_captured_at": "2026-08-05 18:15:01 UTC"
     }
   ]
 }
