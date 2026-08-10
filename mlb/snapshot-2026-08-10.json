@@ -45,7 +45,10 @@
       "thin_sp": false,
       "game_time": "2026-08-11T02:10Z",
       "the_read": "V10 leans this way with a calibrated read (67%). Tarik Skubal at full strength (102 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -266,
+      "closing_ml_away": 245,
+      "closing_ml_captured_at": "2026-08-10 18:15:02 UTC"
     },
     {
       "away_team": "Colorado Rockies",
@@ -86,7 +89,10 @@
       "thin_sp": false,
       "game_time": "2026-08-11T01:40Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (57%) - that pattern historically favors the market, so it is a pass. Michael Soroka at full strength (82 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -194,
+      "closing_ml_away": 180,
+      "closing_ml_captured_at": "2026-08-10 18:15:02 UTC"
     },
     {
       "away_team": "New York Mets",
@@ -127,7 +133,10 @@
       "thin_sp": false,
       "game_time": "2026-08-10T23:15Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Bryce Elder at full strength (126 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -140,
+      "closing_ml_away": 130,
+      "closing_ml_captured_at": "2026-08-10 18:15:02 UTC"
     },
     {
       "away_team": "Baltimore Orioles",
@@ -168,7 +177,10 @@
       "thin_sp": false,
       "game_time": "2026-08-10T23:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Dean Kremer at full strength (41 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 107,
+      "closing_ml_away": -115,
+      "closing_ml_captured_at": "2026-08-10 18:15:02 UTC"
     },
     {
       "away_team": "Texas Rangers",
@@ -209,7 +221,10 @@
       "thin_sp": false,
       "game_time": "2026-08-11T01:38Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. MacKenzie Gore at full strength (128 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 104,
+      "closing_ml_away": -112,
+      "closing_ml_captured_at": "2026-08-10 18:15:02 UTC"
     },
     {
       "away_team": "Houston Astros",
@@ -250,7 +265,10 @@
       "thin_sp": true,
       "game_time": "2026-08-11T01:45Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (50%) - that pattern historically favors the market, so it is a pass. Hayden Wesneski on a limited sample (11 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 132,
+      "closing_ml_away": -142,
+      "closing_ml_captured_at": "2026-08-10 18:15:02 UTC"
     },
     {
       "away_team": "Boston Red Sox",
@@ -291,7 +309,10 @@
       "thin_sp": false,
       "game_time": "2026-08-10T23:07Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Sonny Gray at full strength (119 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 138,
+      "closing_ml_away": -148,
+      "closing_ml_captured_at": "2026-08-10 18:15:02 UTC"
     },
     {
       "away_team": "Philadelphia Phillies",
@@ -332,7 +353,10 @@
       "thin_sp": false,
       "game_time": "2026-08-10T23:45Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Andrew Painter at full strength (75 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 107,
+      "closing_ml_away": -115,
+      "closing_ml_captured_at": "2026-08-10 18:15:02 UTC"
     },
     {
       "away_team": "Milwaukee Brewers",
@@ -373,7 +397,10 @@
       "thin_sp": false,
       "game_time": "2026-08-11T01:40Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (59%) - that pattern historically favors the market, so it is a pass. Logan Henderson at full strength (50 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 107,
+      "closing_ml_away": -115,
+      "closing_ml_captured_at": "2026-08-10 18:15:02 UTC"
     },
     {
       "away_team": "Tampa Bay Rays",
@@ -414,7 +441,10 @@
       "thin_sp": false,
       "game_time": "2026-08-11T01:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Freddy Peralta at full strength (117 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 143,
+      "closing_ml_away": -154,
+      "closing_ml_captured_at": "2026-08-10 18:15:02 UTC"
     }
   ]
 }
