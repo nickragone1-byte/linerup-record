@@ -45,7 +45,10 @@
       "thin_sp": false,
       "game_time": "2026-08-13T02:10Z",
       "the_read": "V10 leans this way with a calibrated read (67%). Eric Lauer at full strength (92 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -206,
+      "closing_ml_away": 191,
+      "closing_ml_captured_at": "2026-08-12 18:15:01 UTC"
     },
     {
       "away_team": "Cincinnati Reds",
@@ -86,7 +89,10 @@
       "thin_sp": false,
       "game_time": "2026-08-12T23:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Luis Castillo at full strength (103 IP).",
-      "display_tier": "LEAN"
+      "display_tier": "LEAN",
+      "closing_ml_home": -141,
+      "closing_ml_away": 131,
+      "closing_ml_captured_at": "2026-08-12 18:15:01 UTC"
     },
     {
       "away_team": "New York Mets",
@@ -127,7 +133,10 @@
       "thin_sp": false,
       "game_time": "2026-08-12T23:15Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (55%) - that pattern historically favors the market, so it is a pass. Tyler Mahle at full strength (100 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -174,
+      "closing_ml_away": 162,
+      "closing_ml_captured_at": "2026-08-12 18:15:01 UTC"
     },
     {
       "away_team": "Colorado Rockies",
@@ -168,7 +177,10 @@
       "thin_sp": false,
       "game_time": "2026-08-12T19:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Merrill Kelly at full strength (120 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -173,
+      "closing_ml_away": 161,
+      "closing_ml_captured_at": "2026-08-12 18:15:01 UTC"
     },
     {
       "away_team": "Seattle Mariners",
@@ -209,7 +221,10 @@
       "thin_sp": false,
       "game_time": "2026-08-12T23:00Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Will Warren at full strength (114 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -124,
+      "closing_ml_away": 116,
+      "closing_ml_captured_at": "2026-08-12 18:15:01 UTC"
     },
     {
       "away_team": "Cleveland Guardians",
@@ -250,7 +265,10 @@
       "thin_sp": false,
       "game_time": "2026-08-12T22:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Framber Valdez at full strength (127 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -123,
+      "closing_ml_away": 114,
+      "closing_ml_captured_at": "2026-08-12 18:15:01 UTC"
     },
     {
       "away_team": "Baltimore Orioles",
@@ -291,7 +309,23 @@
       "thin_sp": false,
       "game_time": "2026-08-12T17:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Shane Baz at full strength (136 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -106,
+      "closing_ml_away": -101,
+      "closing_ml_captured_at": "2026-08-12 17:30:01 UTC",
+      "is_locked": true,
+      "locked_at": "2026-08-12 17:36:01 UTC",
+      "locked_pick": "Baltimore Orioles",
+      "locked_pick_ml": -101,
+      "locked_confidence": 50.3,
+      "locked_edge": -1.6,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -106,
+      "locked_away_ml": -101,
+      "locked_home_pitcher": "Zebby Matthews",
+      "locked_away_pitcher": "Shane Baz",
+      "locked_sharp_signal": "mild on AWAY",
+      "locked_line_move": 14
     },
     {
       "away_team": "Pittsburgh Pirates",
@@ -332,7 +366,10 @@
       "thin_sp": false,
       "game_time": "2026-08-12T22:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Carmen Mlodzinski at full strength (97 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -108,
+      "closing_ml_away": 101,
+      "closing_ml_captured_at": "2026-08-12 18:15:01 UTC"
     },
     {
       "away_team": "Texas Rangers",
@@ -373,7 +410,10 @@
       "thin_sp": true,
       "game_time": "2026-08-13T02:00Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Cal Quantrill at full strength (65 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 125,
+      "closing_ml_away": -134,
+      "closing_ml_captured_at": "2026-08-12 18:15:01 UTC"
     },
     {
       "away_team": "Boston Red Sox",
@@ -414,7 +454,10 @@
       "thin_sp": false,
       "game_time": "2026-08-12T23:07Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Ranger Suarez at full strength (103 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 115,
+      "closing_ml_away": -124,
+      "closing_ml_captured_at": "2026-08-12 18:15:01 UTC"
     },
     {
       "away_team": "Houston Astros",
@@ -455,7 +498,10 @@
       "thin_sp": false,
       "game_time": "2026-08-12T19:45Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (50%) - that pattern historically favors the market, so it is a pass. Bryan King at full strength (49 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 131,
+      "closing_ml_away": -141,
+      "closing_ml_captured_at": "2026-08-12 18:15:01 UTC"
     },
     {
       "away_team": "Chicago Cubs",
@@ -496,7 +542,10 @@
       "thin_sp": true,
       "game_time": "2026-08-12T22:45Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (51%) - that pattern historically favors the market, so it is a pass. David Peterson at full strength (106 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 147,
+      "closing_ml_away": -158,
+      "closing_ml_captured_at": "2026-08-12 18:15:01 UTC"
     },
     {
       "away_team": "Milwaukee Brewers",
@@ -537,7 +586,10 @@
       "thin_sp": false,
       "game_time": "2026-08-12T20:10Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (58%) - that pattern historically favors the market, so it is a pass. Dustin May at full strength (115 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 112,
+      "closing_ml_away": -120,
+      "closing_ml_captured_at": "2026-08-12 18:15:01 UTC"
     },
     {
       "away_team": "Philadelphia Phillies",
@@ -578,7 +630,23 @@
       "thin_sp": false,
       "game_time": "2026-08-12T18:15Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Zack Wheeler at full strength (110 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 151,
+      "closing_ml_away": -163,
+      "closing_ml_captured_at": "2026-08-12 18:15:01 UTC",
+      "is_locked": true,
+      "locked_at": "2026-08-12 18:10:02 UTC",
+      "locked_pick": "Philadelphia Phillies",
+      "locked_pick_ml": -163,
+      "locked_confidence": 59.7,
+      "locked_edge": -3.8,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": 151,
+      "locked_away_ml": -163,
+      "locked_home_pitcher": "Kyle Leahy",
+      "locked_away_pitcher": "Zack Wheeler",
+      "locked_sharp_signal": "sharp on AWAY",
+      "locked_line_move": 22
     },
     {
       "away_team": "Tampa Bay Rays",
@@ -619,7 +687,10 @@
       "thin_sp": false,
       "game_time": "2026-08-12T19:05Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (58%) - that pattern historically favors the market, so it is a pass. Drew Rasmussen at full strength (124 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 207,
+      "closing_ml_away": -224,
+      "closing_ml_captured_at": "2026-08-12 18:15:01 UTC"
     }
   ]
 }
