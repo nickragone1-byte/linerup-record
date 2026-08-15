@@ -45,7 +45,10 @@
       "thin_sp": false,
       "game_time": "2026-08-15T22:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Ian Seymour at full strength (90 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -146,
+      "closing_ml_away": 136,
+      "closing_ml_captured_at": "2026-08-15 18:15:01 UTC"
     },
     {
       "away_team": "St. Louis Cardinals",
@@ -63,9 +66,9 @@
       "venue": "Wrigley Field",
       "park_factor": 1.01,
       "away_ml": 168,
-      "home_ml": -180,
+      "home_ml": -181,
       "ml_open_home": -178,
-      "line_move": -2,
+      "line_move": -3,
       "sharp_signal": "neutral",
       "h_cum_rd": 0.89,
       "a_cum_rd": 0.03,
@@ -86,7 +89,23 @@
       "thin_sp": false,
       "game_time": "2026-08-15T18:20Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (57%) - that pattern historically favors the market, so it is a pass. Matthew Boyd at full strength (79 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -181,
+      "closing_ml_away": 168,
+      "closing_ml_captured_at": "2026-08-15 18:15:01 UTC",
+      "is_locked": true,
+      "locked_at": "2026-08-15 18:16:01 UTC",
+      "locked_pick": "Chicago Cubs",
+      "locked_pick_ml": -181,
+      "locked_confidence": 58.8,
+      "locked_edge": -6.5,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -181,
+      "locked_away_ml": 168,
+      "locked_home_pitcher": "Matthew Boyd",
+      "locked_away_pitcher": "Michael McGreevy",
+      "locked_sharp_signal": "neutral",
+      "locked_line_move": -3
     },
     {
       "away_team": "Kansas City Royals",
@@ -127,7 +146,10 @@
       "thin_sp": false,
       "game_time": "2026-08-16T01:38Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Reid Detmers at full strength (135 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -148,
+      "closing_ml_away": 138,
+      "closing_ml_captured_at": "2026-08-15 18:15:01 UTC"
     },
     {
       "away_team": "Arizona Diamondbacks",
@@ -168,7 +190,10 @@
       "thin_sp": false,
       "game_time": "2026-08-15T23:15Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Grant Holmes at full strength (114 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -129,
+      "closing_ml_away": 120,
+      "closing_ml_captured_at": "2026-08-15 18:15:01 UTC"
     },
     {
       "away_team": "Colorado Rockies",
@@ -209,7 +234,10 @@
       "thin_sp": false,
       "game_time": "2026-08-15T20:05Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Logan Webb at full strength (133 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -159,
+      "closing_ml_away": 148,
+      "closing_ml_captured_at": "2026-08-15 18:15:01 UTC"
     },
     {
       "away_team": "San Diego Padres",
@@ -250,7 +278,10 @@
       "thin_sp": true,
       "game_time": "2026-08-15T23:10Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Joey Cantillo at full strength (119 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -116,
+      "closing_ml_away": 108,
+      "closing_ml_captured_at": "2026-08-15 18:15:01 UTC"
     },
     {
       "away_team": "Washington Nationals",
@@ -291,7 +322,10 @@
       "thin_sp": false,
       "game_time": "2026-08-15T20:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Sean Manaea at full strength (104 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -135,
+      "closing_ml_away": 126,
+      "closing_ml_captured_at": "2026-08-15 18:15:01 UTC"
     },
     {
       "away_team": "Chicago White Sox",
@@ -332,7 +366,23 @@
       "thin_sp": false,
       "game_time": "2026-08-15T17:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Troy Melton at full strength (80 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -136,
+      "closing_ml_away": 126,
+      "closing_ml_captured_at": "2026-08-15 17:00:02 UTC",
+      "is_locked": true,
+      "locked_at": "2026-08-15 17:06:01 UTC",
+      "locked_pick": "Detroit Tigers",
+      "locked_pick_ml": -135,
+      "locked_confidence": 54,
+      "locked_edge": -0.7,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -135,
+      "locked_away_ml": 126,
+      "locked_home_pitcher": "Troy Melton",
+      "locked_away_pitcher": "Anthony Kay",
+      "locked_sharp_signal": "sharp on AWAY",
+      "locked_line_move": 29
     },
     {
       "away_team": "Milwaukee Brewers",
@@ -373,7 +423,10 @@
       "thin_sp": false,
       "game_time": "2026-08-15T23:15Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Jacob Misiorowski at full strength (133 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 111,
+      "closing_ml_away": -119,
+      "closing_ml_captured_at": "2026-08-15 18:15:01 UTC"
     },
     {
       "away_team": "Boston Red Sox",
@@ -414,7 +467,10 @@
       "thin_sp": false,
       "game_time": "2026-08-15T23:15Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Sonny Gray at full strength (125 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 105,
+      "closing_ml_away": -112,
+      "closing_ml_captured_at": "2026-08-15 18:15:01 UTC"
     },
     {
       "away_team": "Seattle Mariners",
@@ -455,7 +511,10 @@
       "thin_sp": false,
       "game_time": "2026-08-15T23:10Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (54%) - that pattern historically favors the market, so it is a pass. Emerson Hancock at full strength (121 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -119,
+      "closing_ml_away": 111,
+      "closing_ml_captured_at": "2026-08-15 18:15:01 UTC"
     },
     {
       "away_team": "Miami Marlins",
@@ -496,7 +555,10 @@
       "thin_sp": false,
       "game_time": "2026-08-15T22:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Ryan Gusto at full strength (49 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -105,
+      "closing_ml_away": -102,
+      "closing_ml_captured_at": "2026-08-15 18:15:01 UTC"
     },
     {
       "away_team": "Philadelphia Phillies",
@@ -537,7 +599,10 @@
       "thin_sp": false,
       "game_time": "2026-08-15T23:10Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Jes\u00fas Luzardo at full strength (143 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 120,
+      "closing_ml_away": -129,
+      "closing_ml_captured_at": "2026-08-15 18:15:01 UTC"
     },
     {
       "away_team": "Texas Rangers",
@@ -578,7 +643,10 @@
       "thin_sp": false,
       "game_time": "2026-08-16T01:40Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. MacKenzie Gore at full strength (134 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 147,
+      "closing_ml_away": -158,
+      "closing_ml_captured_at": "2026-08-15 18:15:01 UTC"
     },
     {
       "away_team": "New York Yankees",
@@ -619,7 +687,10 @@
       "thin_sp": false,
       "game_time": "2026-08-15T19:07Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (55%) - that pattern historically favors the market, so it is a pass. Cam Schlittler at full strength (146 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 169,
+      "closing_ml_away": -182,
+      "closing_ml_captured_at": "2026-08-15 18:15:01 UTC"
     }
   ]
 }
