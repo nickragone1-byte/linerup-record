@@ -45,7 +45,10 @@
       "thin_sp": true,
       "game_time": "2026-08-19T22:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Parker Messick at full strength (142 IP). Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -218,
+      "closing_ml_away": 201,
+      "closing_ml_captured_at": "2026-08-19 18:15:01 UTC"
     },
     {
       "away_team": "Arizona Diamondbacks",
@@ -86,7 +89,10 @@
       "thin_sp": false,
       "game_time": "2026-08-19T20:10Z",
       "the_read": "V10 leans this way with a calibrated read (63%). Payton Tolle at full strength (115 IP). Sharps confirm the lean.",
-      "display_tier": "PLAY"
+      "display_tier": "PLAY",
+      "closing_ml_home": -158,
+      "closing_ml_away": 147,
+      "closing_ml_captured_at": "2026-08-19 18:15:01 UTC"
     },
     {
       "away_team": "Miami Marlins",
@@ -127,7 +133,10 @@
       "thin_sp": false,
       "game_time": "2026-08-19T22:05Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Aaron Nola at full strength (130 IP).",
-      "display_tier": "LEAN"
+      "display_tier": "LEAN",
+      "closing_ml_home": -130,
+      "closing_ml_away": 121,
+      "closing_ml_captured_at": "2026-08-19 18:15:01 UTC"
     },
     {
       "away_team": "Toronto Blue Jays",
@@ -168,7 +177,10 @@
       "thin_sp": false,
       "game_time": "2026-08-19T22:40Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (57%) - that pattern historically favors the market, so it is a pass. Drew Rasmussen at full strength (129 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -193,
+      "closing_ml_away": 179,
+      "closing_ml_captured_at": "2026-08-19 18:15:01 UTC"
     },
     {
       "away_team": "Washington Nationals",
@@ -209,7 +221,10 @@
       "thin_sp": false,
       "game_time": "2026-08-20T00:05Z",
       "the_read": "V10 and the market are closely aligned - no clear lean. Kumar Rocker at full strength (116 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -129,
+      "closing_ml_away": 120,
+      "closing_ml_captured_at": "2026-08-19 18:15:01 UTC"
     },
     {
       "away_team": "Athletics",
@@ -250,7 +265,10 @@
       "thin_sp": true,
       "game_time": "2026-08-19T23:40Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (52%) - that pattern historically favors the market, so it is a pass. Bullpen edge drives the lean. Sharps confirm the lean.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -158,
+      "closing_ml_away": 147,
+      "closing_ml_captured_at": "2026-08-19 18:15:01 UTC"
     },
     {
       "away_team": "Detroit Tigers",
@@ -291,7 +309,20 @@
       "thin_sp": true,
       "game_time": "2026-08-19T16:35Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (52%) - that pattern historically favors the market, so it is a pass. Paul Skenes at full strength (134 IP). Mild sharp action confirms.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "is_locked": true,
+      "locked_at": "2026-08-19 16:32:01 UTC",
+      "locked_pick": "Pittsburgh Pirates",
+      "locked_pick_ml": -153,
+      "locked_confidence": 55.1,
+      "locked_edge": -7.2,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -153,
+      "locked_away_ml": 142,
+      "locked_home_pitcher": "Paul Skenes",
+      "locked_away_pitcher": "Jackson Jobe",
+      "locked_sharp_signal": "mild on HOME",
+      "locked_line_move": -14
     },
     {
       "away_team": "Chicago White Sox",
@@ -308,10 +339,10 @@
       "home_sp_weight": 100,
       "venue": "Wrigley Field",
       "park_factor": 1.01,
-      "away_ml": 131,
-      "home_ml": -140,
+      "away_ml": 135,
+      "home_ml": -145,
       "ml_open_home": -140,
-      "line_move": 0,
+      "line_move": -5,
       "sharp_signal": "neutral",
       "h_cum_rd": 0.81,
       "a_cum_rd": 0.36,
@@ -322,17 +353,33 @@
       "series_finale": 1,
       "game_context": "",
       "model_prob_home": 53.9,
-      "vegas_prob_home": 57.4,
-      "final_prob_home": 54.9,
+      "vegas_prob_home": 58.2,
+      "final_prob_home": 55.2,
       "pick": "Chicago Cubs",
-      "confidence": 54.9,
-      "edge": -3.5,
+      "confidence": 55.2,
+      "edge": -4.3,
       "over_under": 7.5,
       "tbd_flag": null,
       "thin_sp": false,
       "game_time": "2026-08-19T18:20Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Clay Holmes at full strength (63 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -145,
+      "closing_ml_away": 135,
+      "closing_ml_captured_at": "2026-08-19 18:15:01 UTC",
+      "is_locked": true,
+      "locked_at": "2026-08-19 18:16:01 UTC",
+      "locked_pick": "Chicago Cubs",
+      "locked_pick_ml": -145,
+      "locked_confidence": 55.2,
+      "locked_edge": -4.3,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": -145,
+      "locked_away_ml": 135,
+      "locked_home_pitcher": "Clay Holmes",
+      "locked_away_pitcher": "Sean Newcomb",
+      "locked_sharp_signal": "neutral",
+      "locked_line_move": -5
     },
     {
       "away_team": "Seattle Mariners",
@@ -373,7 +420,10 @@
       "thin_sp": false,
       "game_time": "2026-08-19T23:40Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Dustin May at full strength (122 IP). Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -118,
+      "closing_ml_away": 110,
+      "closing_ml_captured_at": "2026-08-19 18:15:01 UTC"
     },
     {
       "away_team": "Los Angeles Angels",
@@ -414,7 +464,10 @@
       "thin_sp": true,
       "game_time": "2026-08-20T00:10Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (52%) - that pattern historically favors the market, so it is a pass. Bullpen edge drives the lean. Mild sharp action against.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -154,
+      "closing_ml_away": 143,
+      "closing_ml_captured_at": "2026-08-19 18:15:01 UTC"
     },
     {
       "away_team": "St. Louis Cardinals",
@@ -455,7 +508,10 @@
       "thin_sp": false,
       "game_time": "2026-08-19T22:40Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (48%) - that pattern historically favors the market, so it is a pass. Chase Burns at full strength (131 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": -140,
+      "closing_ml_away": 131,
+      "closing_ml_captured_at": "2026-08-19 18:15:01 UTC"
     },
     {
       "away_team": "San Diego Padres",
@@ -496,7 +552,23 @@
       "thin_sp": true,
       "game_time": "2026-08-19T17:10Z",
       "the_read": "V10 diverges sharply from the market on a lower-confidence game (46%) - that pattern historically favors the market, so it is a pass. Michael King at full strength (142 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 126,
+      "closing_ml_away": -136,
+      "closing_ml_captured_at": "2026-08-19 17:00:02 UTC",
+      "is_locked": true,
+      "locked_at": "2026-08-19 17:06:02 UTC",
+      "locked_pick": "San Diego Padres",
+      "locked_pick_ml": -130,
+      "locked_confidence": 50.9,
+      "locked_edge": -9.6,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": 122,
+      "locked_away_ml": -130,
+      "locked_home_pitcher": "Robert Stock",
+      "locked_away_pitcher": "Michael King",
+      "locked_sharp_signal": "sharp on AWAY",
+      "locked_line_move": 15
     },
     {
       "away_team": "Atlanta Braves",
@@ -513,11 +585,11 @@
       "home_sp_weight": 100,
       "venue": "Target Field",
       "park_factor": 0.99,
-      "away_ml": -106,
-      "home_ml": -101,
+      "away_ml": -108,
+      "home_ml": 100,
       "ml_open_home": 117,
-      "line_move": null,
-      "sharp_signal": "no data",
+      "line_move": -17,
+      "sharp_signal": "sharp on HOME",
       "h_cum_rd": -0.37,
       "a_cum_rd": 0.92,
       "is_playoff": 0,
@@ -527,17 +599,33 @@
       "series_finale": 1,
       "game_context": "",
       "model_prob_home": 46.4,
-      "vegas_prob_home": 49.4,
-      "final_prob_home": 47.3,
+      "vegas_prob_home": 49.1,
+      "final_prob_home": 49.2,
       "pick": "Atlanta Braves",
-      "confidence": 52.7,
-      "edge": 3,
-      "over_under": 8.5,
+      "confidence": 50.8,
+      "edge": 2.7,
+      "over_under": 9,
       "tbd_flag": null,
       "thin_sp": true,
       "game_time": "2026-08-19T17:40Z",
-      "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Bullpen edge drives the lean.",
-      "display_tier": "PASS"
+      "the_read": "V10 and the market are closely aligned - no clear lean. Bullpen edge drives the lean. Sharps confirm the lean.",
+      "display_tier": "PASS",
+      "closing_ml_home": 100,
+      "closing_ml_away": -108,
+      "closing_ml_captured_at": "2026-08-19 17:30:02 UTC",
+      "is_locked": true,
+      "locked_at": "2026-08-19 17:36:01 UTC",
+      "locked_pick": "Atlanta Braves",
+      "locked_pick_ml": -108,
+      "locked_confidence": 50.8,
+      "locked_edge": 2.7,
+      "locked_display_tier": "PASS",
+      "locked_home_ml": 100,
+      "locked_away_ml": -108,
+      "locked_home_pitcher": "Taj Bradley",
+      "locked_away_pitcher": "AJ Smith-Shawver",
+      "locked_sharp_signal": "sharp on HOME",
+      "locked_line_move": -17
     },
     {
       "away_team": "New York Yankees",
@@ -578,7 +666,10 @@
       "thin_sp": false,
       "game_time": "2026-08-19T22:35Z",
       "the_read": "V10 sees a modest gap from the market, but without the confidence to play it. Will Warren at full strength (118 IP).",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 108,
+      "closing_ml_away": -116,
+      "closing_ml_captured_at": "2026-08-19 18:15:01 UTC"
     },
     {
       "away_team": "Los Angeles Dodgers",
@@ -619,7 +710,10 @@
       "thin_sp": false,
       "game_time": "2026-08-20T00:40Z",
       "the_read": "V10 leans this way with a calibrated read (63%). Roki Sasaki at full strength (111 IP). Market moving against this pick.",
-      "display_tier": "PASS"
+      "display_tier": "PASS",
+      "closing_ml_home": 177,
+      "closing_ml_away": -191,
+      "closing_ml_captured_at": "2026-08-19 18:15:01 UTC"
     }
   ]
 }
